@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: ae1c99f3e3e658d4a86d37f432ad827a
+timeCreated: 1474475142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: alights
+    100002: bdoors
+    100004: black
+    100006: body
+    100008: brim
+    100010: brimblk
+    100012: btire
+    100014: fdoors
+    100016: glass
+    100018: handles
+    100020: hlights
+    100022: hood
+    100024: lfrim
+    100026: lfrimblk
+    100028: lftire
+    100030: logo
+    100032: logoblk
+    100034: mir
+    100036: open
+    100038: rfrim
+    100040: rfrimblk
+    100042: rftire
+    100044: rlights
+    100046: strim
+    100048: //RootNode
+    100050: trunk
+    100052: under
+    100054: wlight
+    100056: wtrim
+    400000: alights
+    400002: bdoors
+    400004: black
+    400006: body
+    400008: brim
+    400010: brimblk
+    400012: btire
+    400014: fdoors
+    400016: glass
+    400018: handles
+    400020: hlights
+    400022: hood
+    400024: lfrim
+    400026: lfrimblk
+    400028: lftire
+    400030: logo
+    400032: logoblk
+    400034: mir
+    400036: open
+    400038: rfrim
+    400040: rfrimblk
+    400042: rftire
+    400044: rlights
+    400046: strim
+    400048: //RootNode
+    400050: trunk
+    400052: under
+    400054: wlight
+    400056: wtrim
+    2300000: alights
+    2300002: bdoors
+    2300004: black
+    2300006: body
+    2300008: brim
+    2300010: brimblk
+    2300012: btire
+    2300014: fdoors
+    2300016: glass
+    2300018: handles
+    2300020: hlights
+    2300022: hood
+    2300024: lfrim
+    2300026: lfrimblk
+    2300028: lftire
+    2300030: logo
+    2300032: logoblk
+    2300034: mir
+    2300036: open
+    2300038: rfrim
+    2300040: rfrimblk
+    2300042: rftire
+    2300044: rlights
+    2300046: strim
+    2300048: trunk
+    2300050: under
+    2300052: wlight
+    2300054: wtrim
+    3300000: alights
+    3300002: bdoors
+    3300004: black
+    3300006: body
+    3300008: brim
+    3300010: brimblk
+    3300012: btire
+    3300014: fdoors
+    3300016: glass
+    3300018: handles
+    3300020: hlights
+    3300022: hood
+    3300024: lfrim
+    3300026: lfrimblk
+    3300028: lftire
+    3300030: logo
+    3300032: logoblk
+    3300034: mir
+    3300036: open
+    3300038: rfrim
+    3300040: rfrimblk
+    3300042: rftire
+    3300044: rlights
+    3300046: strim
+    3300048: trunk
+    3300050: under
+    3300052: wlight
+    3300054: wtrim
+    4300000: alights
+    4300002: bdoors
+    4300004: black
+    4300006: body
+    4300008: brim
+    4300010: brimblk
+    4300012: btire
+    4300014: fdoors
+    4300016: glass
+    4300018: handles
+    4300020: hlights
+    4300022: hood
+    4300024: lfrim
+    4300026: lfrimblk
+    4300028: lftire
+    4300030: logo
+    4300032: logoblk
+    4300034: mir
+    4300036: open
+    4300038: rfrim
+    4300040: rfrimblk
+    4300042: rftire
+    4300044: rlights
+    4300046: strim
+    4300048: trunk
+    4300050: under
+    4300052: wlight
+    4300054: wtrim
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.09
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

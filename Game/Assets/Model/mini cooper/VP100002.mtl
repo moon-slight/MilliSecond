@@ -1,0 +1,336 @@
+#
+# Wavefront material file: z:\modpub\published_models\desmond mcpherson\bmw mini\vp100002\vp100002.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 07/15/2003 10:14:20
+#
+# Bounding box of geometry = (-1.03379,-0.234,-1.88911) to (1.03379,1.27699,1.88911).
+
+newmtl default
+Ns 32
+d 1
+illum 2
+Kd 0.4 0.4 0.4
+Ks 0.7 0.7 0.7
+Ka 0.3 0.3 0.3
+
+newmtl backlite
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.376471 0.376471 0.376471
+Ka 0.225882 0.225882 0.225882
+
+newmtl bodysmth
+Ns 64
+d 1
+illum 2
+Kd 0.701961 0 0.0156863
+Ks 0.491373 0 0.0109804
+Ka 0.210588 0 0.00470588
+
+newmtl bumpchrm
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.527059 0.527059 0.527059
+Ka 0.225882 0.225882 0.225882
+
+newmtl dooredge
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl doorhndl
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.527059 0.527059 0.527059
+Ka 0.225882 0.225882 0.225882
+
+newmtl fbumpflt
+Ns 64
+d 1
+illum 2
+Kd 0.701961 0 0.0156863
+Ks 0.491373 0 0.0109804
+Ka 0.210588 0 0.00470588
+
+newmtl fbumpsmt
+Ns 64
+d 1
+illum 2
+Kd 0.701961 0 0.0156863
+Ks 0.491373 0 0.0109804
+Ka 0.210588 0 0.00470588
+
+newmtl grilblak
+Ns 25
+d 1
+illum 2
+Kd 0.207843 0.207843 0.207843
+Ks 0 0 0
+Ka 0.0623529 0.0623529 0.0623529
+
+newmtl grilflat
+Ns 25
+d 1
+illum 2
+Kd 0.27451 0.27451 0.27451
+Ks 0 0 0
+Ka 0.0823529 0.0823529 0.0823529
+
+newmtl grilsmth
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.527059 0.527059 0.527059
+Ka 0.225882 0.225882 0.225882
+
+newmtl headlite
+Ns 64
+d 1
+illum 2
+Kd 0.635294 0.635294 0.635294
+Ks 0.317647 0.317647 0.317647
+Ka 0.190588 0.190588 0.190588
+
+newmtl hoodedge
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl hoodsmth
+Ns 64
+d 1
+illum 2
+Kd 0.658824 0 0.0156863
+Ks 0.461176 0 0.0109804
+Ka 0.197647 0 0.00470588
+
+newmtl hoodvent
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl liteedge
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.527059 0.527059 0.527059
+Ka 0.225882 0.225882 0.225882
+
+newmtl logoblak
+Ns 64
+d 1
+illum 2
+Kd 0.25098 0.25098 0.25098
+Ks 0.12549 0.12549 0.12549
+Ka 0.0752941 0.0752941 0.0752941
+
+newmtl logoflat
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.376471 0.376471 0.376471
+Ka 0.225882 0.225882 0.225882
+
+newmtl logosmth
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.376471 0.376471 0.376471
+Ka 0.225882 0.225882 0.225882
+
+newmtl mirrflat
+Ns 64
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0.148235 0.148235 0.148235
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl mirrglas
+Ns 64
+d 1
+illum 2
+Kd 0.501961 0.501961 0.501961
+Ks 0.351373 0.351373 0.351373
+Ka 0.150588 0.150588 0.150588
+
+newmtl mirrsmth
+Ns 64
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0.148235 0.148235 0.148235
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl rbumpchm
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.451765 0.451765 0.451765
+Ka 0.225882 0.225882 0.225882
+
+newmtl rbumpsmt
+Ns 64
+d 1
+illum 2
+Kd 0.701961 0 0.0156863
+Ks 0.491373 0 0.0109804
+Ka 0.210588 0 0.00470588
+
+newmtl redlite
+Ns 64
+d 1
+illum 2
+Kd 0.501961 0 0
+Ks 0.25098 0 0
+Ka 0.150588 0 0
+
+newmtl rooftop
+Ns 25
+d 1
+illum 2
+Kd 1 1 1
+Ks 0 0 0
+Ka 0.3 0.3 0.3
+
+newmtl rwindow
+Ns 64
+d 1
+illum 2
+Kd 0 0 0.25098
+Ks 0 0 0.175686
+Ka 0 0 0.0752941
+
+newmtl taillite
+Ns 64
+d 1
+illum 2
+Kd 0.501961 0 0
+Ks 0.25098 0 0
+Ka 0.150588 0 0
+
+newmtl tailltcr
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.451765 0.451765 0.451765
+Ka 0.225882 0.225882 0.225882
+
+newmtl tailpipe
+Ns 64
+d 1
+illum 2
+Kd 0.752941 0.752941 0.752941
+Ks 0.376471 0.376471 0.376471
+Ka 0.225882 0.225882 0.225882
+
+newmtl tire
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl trimedge
+Ns 64
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0.0847059 0.0847059 0.0847059
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl trunksmt
+Ns 64
+d 1
+illum 2
+Kd 0.701961 0 0.0156863
+Ks 0.491373 0 0.0109804
+Ka 0.210588 0 0.00470588
+
+newmtl undrcrdg
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl wheel
+Ns 25
+d 1
+illum 2
+Kd 0.882353 0.882353 0.882353
+Ks 0 0 0
+Ka 0.264706 0.264706 0.264706
+
+newmtl windedge
+Ns 64
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0.105882 0.105882 0.105882
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl window
+Ns 64
+d 1
+illum 2
+Kd 0 0 0.25098
+Ks 0 0 0.175686
+Ka 0 0 0.0752941
+
+newmtl windshld
+Ns 64
+d 1
+illum 2
+Kd 0 0 0.25098
+Ks 0 0 0.175686
+Ka 0 0 0.0752941
+
+newmtl wiprflat
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl wiprsmth
+Ns 25
+d 1
+illum 2
+Kd 0.211765 0.211765 0.211765
+Ks 0 0 0
+Ka 0.0635294 0.0635294 0.0635294
+
+newmtl yelwlite
+Ns 64
+d 1
+illum 2
+Kd 0.733333 0.368627 0
+Ks 0.366667 0.184314 0
+Ka 0.22 0.110588 0
+

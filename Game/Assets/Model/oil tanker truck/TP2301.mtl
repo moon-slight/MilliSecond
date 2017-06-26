@@ -1,0 +1,178 @@
+newmtl 1_SILVER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+newmtl 1_BLK2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  52
+illum 2
+
+# Multi/Sub Material__57 (2) to come
+
+newmtl Material__57_1_BLK2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  52
+illum 2
+
+newmtl Material__57_1_SILVER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+# Multi/Sub Material__57 done
+
+# Multi/Sub Material__46 (2) to come
+
+newmtl Material__46_1_BLK2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  52
+illum 2
+
+newmtl Material__46_1_SILVER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+# Multi/Sub Material__46 done
+
+# Multi/Sub Material__35 (2) to come
+
+newmtl Material__35_1_BLK2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  52
+illum 2
+
+newmtl Material__35_1_SILVER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+# Multi/Sub Material__35 done
+
+newmtl 1_GLASS
+Ka  0 0 0
+Kd  0.871 0.893 1
+Ks  0.848 0.887 0.993
+Ns  89
+refl sky.tif
+#refl_amt 0.15
+d  0.52
+illum 3
+
+newmtl 1_LIGHT
+Ka  0.001 0.001 0.001
+Kd  0.806 0.806 0.806
+Ks  0.816 0.816 0.816
+Ns  1
+illum 2
+
+newmtl 1_ORANGE
+Ka  1 0.05 0
+Kd  1 0.05 0
+Ks  1 0.069 0.003
+Ns  1
+illum 2
+
+newmtl 1_ORANGE_LIGHT
+Ka  0 0 0
+Kd  0.704 0.284 0
+Ks  0.718 0.31 0.003
+Ns  1
+illum 2
+
+newmtl 1_RED_LIGHT
+Ka  0 0 0
+Kd  0.704 0 0
+Ks  0.718 0.003 0.003
+Ns  1
+illum 2
+
+newmtl 1_TANKER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+map_Kd tank1.tif
+#map_Kd_amt 0.73
+decal tank1.tif
+decal -imfchan l tnkm.tif
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+newmtl 1BLACK_PLSTC1
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  80
+d  0.9
+Ni  1.5
+illum 6
+
+newmtl BLACK_MATTE_2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  1
+illum 2
+
+newmtl CHROME_GIFMAP
+Ka  0 0 0
+Kd  1 1 1
+Ks  0.999 0.999 1
+Ns  66
+refl refmap.tif
+#refl_amt 1
+illum 3
+
+newmtl Default
+Ka  0.49 0.49 0.49
+Kd  0.49 0.49 0.49
+Ks  0.511 0.511 0.511
+Ns  50
+illum 2
+
+newmtl TRK2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  1
+map_Kd trk2.tif
+#map_Kd_amt 1
+decal trk2.tif
+illum 2
+
+newmtl WHITE_MATTE
+Ka  0.001 0.001 0.001
+Kd  0.806 0.806 0.806
+Ks  0.816 0.816 0.816
+Ns  5
+illum 2
+
+# EOF
+

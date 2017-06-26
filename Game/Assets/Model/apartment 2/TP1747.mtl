@@ -1,0 +1,73 @@
+newmtl 1_WALL
+Ka  0.738 0.685 0.621
+Kd  0.738 0.685 0.621
+Ks  0.738 0.685 0.621
+Ns  1
+illum 2
+
+newmtl 1_CREAM
+Ka  0.45 0.374 0.17
+Kd  0.45 0.374 0.17
+Ks  0.455 0.381 0.176
+Ns  32
+illum 2
+
+newmtl 1_FTILE
+Ka  0 0 0
+Kd  0.498 0.332 0.2
+Ks  0.498 0.332 0.2
+Ns  1
+bump inlay4.tif
+illum 2
+
+newmtl 1_GLASS
+Ka  0 0 0
+Kd  0.871 0.893 1
+Ks  0.848 0.887 0.993
+Ns  89
+refl sky.tif
+#refl_amt 0.15
+d  0.02
+illum 3
+
+newmtl 1_GRILL
+Ka  0 0 0
+Kd  0.189 0.189 0.189
+Ks  0.212 0.212 0.212
+Ns  1
+map_Kd grill.tif
+#map_Kd_amt 0.73
+decal grill.tif
+illum 2
+
+newmtl 1_SILVER
+Ka  0 0 0
+Kd  0.248 0.2 0.163
+Ks  0.274 0.225 0.188
+Ns  85
+refl reflect3.tif
+#refl_amt 0.9
+illum 3
+
+newmtl 1WOOD_-_ASH
+Ka  0.034 0.015 0.003
+Kd  0.034 0.015 0.003
+Ks  0.034 0.015 0.003
+Ns  14
+map_Kd ashwood.tif
+#map_Kd_amt 0.42
+decal ashwood.tif
+illum 2
+
+newmtl WOOD_-_ASH
+Ka  0.034 0.015 0.003
+Kd  0.034 0.015 0.003
+Ks  0.034 0.015 0.003
+Ns  14
+map_Kd ashwood.tif
+#map_Kd_amt 0.42
+decal ashwood.tif
+illum 2
+
+# EOF
+

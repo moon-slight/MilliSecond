@@ -1,0 +1,280 @@
+newmtl SCAN
+Ka  0 0 0.034
+Kd  0 0 0.02
+Ks  0.522 0.523 0.533
+Ns  25
+illum 2
+
+newmtl Material__594
+Ka  0 0 0
+Kd  0.063 0.063 0.063
+Ks  0.37 0.37 0.37
+Ns  35
+illum 2
+
+newmtl amarello
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.002 0.002 0.002
+Ns  25
+illum 2
+
+# Multi/Sub VOLSCAN (172) to come
+
+newmtl VOLSCAN_SCAN
+Ka  0 0 0.034
+Kd  0.114 0.119 0.189
+Ks  0.974 0.974 0.978
+Ns  25
+illum 2
+
+newmtl VOLSCAN_SCAN2
+Ka  0 0 0
+Kd  0.139 0.142 0.166
+Ks  0.674 0.675 0.683
+Ns  35
+illum 2
+
+newmtl VOLSCAN_l_altaSCAN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  25
+map_Kd focovolvo.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl VOLSCAN_l_bajaSCAN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  25
+map_Kd luces-t.tif
+#map_Kd_amt 1
+decal luces-t.tif
+illum 2
+
+newmtl VOLSCAN_radiador
+Ka  0 0 0
+Kd  0.069 0.045 0.063
+Ks  0.004 0.003 0.004
+Ns  35
+map_Kd radiador.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl VOLSCAN_glasses_topSCAN
+Ka  0 0.001 0.008
+Kd  0 0 0
+Ks  0.98 0.98 0.98
+Ns  50
+d -halo  0.95
+Ni  1.5
+refl cielofdo5.tif
+#refl_amt 0.25
+illum 6
+
+newmtl VOLSCAN_glassesSCAN
+Ka  0 0 0.002
+Kd  0.01 0.01 0.01
+Ks  0.982 0.982 0.982
+Ns  50
+d -halo  0.93
+Ni  1.5
+refl cielofdo5.tif
+#refl_amt 0.25
+illum 6
+
+newmtl VOLSCAN_l_posSCAN
+Ka  0.466 0.114 0
+Kd  0.901 0.145 0
+Ks  0.896 0.165 0.002
+Ns  25
+map_Kd luces-t.tif
+#map_Kd_amt 0.35
+decal luces-t.tif
+illum 2
+
+newmtl VOLSCAN_techoSCAN
+Ka  0.03 0.038 0.063
+Kd  0.145 0.186 0.301
+Ks  0.52 0.554 0.635
+Ns  35
+illum 2
+
+newmtl Material__919
+Ka  0 0 0
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+map_Kd focovolvo.tif
+#map_Kd_amt 1
+illum 2
+
+# Multi/Sub Material__26 (21) to come
+
+newmtl Material__26_lutrashino
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+map_Kd intermf.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__26_NEGROBRIL
+Ka  0 0 0
+Kd  0.091 0.091 0.091
+Ks  0.262 0.262 0.262
+Ns  25
+illum 2
+
+newmtl Material__26_Material__594
+Ka  0 0 0
+Kd  0.063 0.063 0.063
+Ks  0.37 0.37 0.37
+Ns  35
+illum 2
+
+newmtl Material__921_Material__594
+Ka  0 0 0
+Kd  0.063 0.063 0.063
+Ks  0.37 0.37 0.37
+Ns  35
+illum 2
+
+newmtl Material__921_techoSCAN
+Ka  0.03 0.038 0.063
+Kd  0.145 0.186 0.301
+Ks  0.52 0.554 0.635
+Ns  35
+illum 2
+
+newmtl Material__921_SCAN
+Ka  0 0 0.034
+Kd  0.114 0.119 0.189
+Ks  0.974 0.974 0.978
+Ns  25
+illum 2
+
+newmtl Material__921_SCAN2
+Ka  0 0 0
+Kd  0.139 0.142 0.166
+Ks  0.674 0.675 0.683
+Ns  35
+illum 2
+
+newmtl Material__921_l_altaSCAN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  25
+map_Kd focovolvo.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__921_l_bajaSCAN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  25
+map_Kd luces-t.tif
+#map_Kd_amt 1
+decal luces-t.tif
+illum 2
+
+newmtl Material__921_radiador
+Ka  0 0 0
+Kd  0.069 0.045 0.063
+Ks  0.004 0.003 0.004
+Ns  35
+map_Kd radiador.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__921_glasses_topSCAN
+Ka  0 0.001 0.008
+Kd  0 0 0
+Ks  0.98 0.98 0.98
+Ns  50
+d -halo  0.95
+Ni  1.5
+refl cielofdo5.tif
+#refl_amt 0.25
+illum 6
+
+newmtl Material__921_glassesSCAN
+Ka  0 0 0.002
+Kd  0.01 0.01 0.01
+Ks  0.982 0.982 0.982
+Ns  50
+d -halo  0.93
+Ni  1.5
+refl cielofdo5.tif
+#refl_amt 0.25
+illum 6
+
+newmtl Material__921_l_posSCAN
+Ka  0.466 0.114 0
+Kd  0.901 0.145 0
+Ks  0.896 0.165 0.002
+Ns  25
+map_Kd luces-t.tif
+#map_Kd_amt 0.35
+decal luces-t.tif
+illum 2
+
+newmtl Material__920_Chrome_Pearl-2
+Ka  0 0 0
+Kd  0.864 0.878 1
+Ks  0.993 0.994 1
+Ns  65
+refl house.tif
+#refl_amt 0.75
+illum 3
+
+newmtl Material__920_cromeSCAN
+Ka  1 1 1
+Kd  1 1 1
+Ks  0.274 0.656 0.829
+Ns  70
+illum 2
+
+newmtl Material__920_Chrome_Pearl-2SCAN
+Ka  1 1 1
+Kd  1 1 1
+Ks  0.253 0.643 0.822
+Ns  70
+illum 2
+
+newmtl Material__920_gomaSCAN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  25
+map_Kd rued9.tif
+#map_Kd_amt 1
+illum 2
+
+# Multi/Sub Material__920 done
+
+# Multi/Sub Material__25 (5) to come
+
+newmtl Material__25_goma
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.98 0.98 0.98
+Ns  77
+map_Kd rued9.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__25_Chrome_Pearl-2
+Ka  0 0 0
+Kd  0.864 0.878 1
+Ks  0.993 0.994 1
+Ns  65
+refl house.tif
+#refl_amt 0.75
+illum 3
+

@@ -1,0 +1,29 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-05 22:21:00Z
+
+newmtl red
+Ka 0.3878 0 0
+Kd 0.7714 0 0
+Ks 1 0 0
+illum 2
+Ns 136.43
+
+newmtl black
+Ka 0 0 0
+Kd 0.002 0.002 0.002
+Ks 0.1265 0.1265 0.1265
+illum 2
+Ns 157.36
+
+newmtl silver
+Ka 0.9551 0.9551 0.9551
+Kd 0.6163 0.6163 0.6163
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl flblack
+Ka 0 0 0
+Kd 0.0041 0.0041 0.0041
+illum 1
+

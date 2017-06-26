@@ -1,0 +1,42 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.0.448
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl xm8_blk
+Ka 0 0 0
+Kd 0.118588 0.118588 0.118588
+Ks 0.0728823 0.0728823 0.0728823
+illum 2
+Ns 11.7127
+
+newmtl xm8mtl9
+Ka 0 0 0
+Kd 0.104118 0.104118 0.104118
+Ks 0.0935294 0.0935294 0.0935294
+illum 2
+Ns 26.9087
+
+newmtl xm8_gry
+Ka 0 0 0
+Kd 0.226216 0.226216 0.226216
+Ks 0.160804 0.160804 0.160804
+illum 2
+Ns 11.7127
+
+newmtl xm8_mtl8
+Ka 0 0 0
+Kd 0.0599216 0.0627451 0.0574118
+Ks 0.202235 0.211765 0.193765
+illum 2
+Ns 51.9842
+
+newmtl xm8Glass
+Ka 0 0 0
+Kd 0.00243137 0.17749 0.211529
+Ks 0.00392157 0.286275 0.341176
+illum 2
+Ns 33.1285
+d 0.865

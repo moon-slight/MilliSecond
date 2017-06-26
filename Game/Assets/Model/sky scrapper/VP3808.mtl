@@ -1,0 +1,70 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.0.448
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl Boc_antenna
+Ka 0 0 0
+Kd 0.686275 0.686275 0.686275
+Ks 0.219608 0.219608 0.219608
+illum 2
+Ns 29.8571
+
+newmtl Boc_Xbeams
+Ka 0 0 0
+Kd 0.67451 0.67451 0.67451
+Ks 0.168627 0.168627 0.168627
+illum 2
+Ns 6.27667
+
+newmtl Boc_corners
+Ka 0 0 0
+Kd 0.639216 0.639216 0.639216
+Ks 0.239216 0.239216 0.239216
+illum 2
+Ns 8.87656
+
+newmtl Boc_flrdivider
+Ka 0 0 0
+Kd 0.556863 0.556863 0.556863
+Ks 0.152941 0.152941 0.152941
+illum 2
+Ns 10.9283
+
+newmtl Boc_glass
+Ka 0 0 0
+Kd 0.0141176 0.16 0.313726
+Ks 0.0333529 0.378 0.741176
+illum 2
+Ns 12.5533
+d 0.695
+
+newmtl Boc_redlite
+Ka 0 0 0
+Kd 0.756451 0.101765 0.0271373
+Ks 0.126804 0.0170588 0.00454902
+illum 2
+Ns 42.2243
+
+newmtl Boc_roofsect
+Ka 0 0 0
+Kd 0.615686 0.615686 0.615686
+Ks 0.133333 0.133333 0.133333
+illum 2
+Ns 28.84
+
+newmtl Boc_wndowdivider
+Ka 0 0 0
+Kd 0.556863 0.556863 0.556863
+Ks 0.152941 0.152941 0.152941
+illum 2
+Ns 10.9283
+
+newmtl Boc_wndowdividerV
+Ka 0 0 0
+Kd 0.784314 0.784314 0.784314
+Ks 0 0 0
+illum 2
+Ns 8

@@ -1,0 +1,15 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-06 06:51:09Z
+
+newmtl Concrete_Brown
+Ka 0.01 0.01 0.01
+Kd 0.25 0.25 0.25
+illum 1
+Ns 1
+
+newmtl Material__4
+Ka 0.00980687 0.00980687 0.00980687
+Kd 0.130989 0.130989 0.130989
+Ks 0.807183 0.807183 0.807183
+illum 2
+

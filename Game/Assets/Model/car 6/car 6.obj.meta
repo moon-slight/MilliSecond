@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: c2b005d296aa96f4e90b34ef3c33c30e
+timeCreated: 1474475146
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: bumpers
+    100004: chrome
+    100006: fdoor
+    100008: glass
+    100010: grill
+    100012: hlights
+    100014: hood
+    100016: inrims
+    100018: inrims2
+    100020: markers
+    100022: mirror
+    100024: rdoor
+    100026: rims
+    100028: rims2
+    100030: roof
+    100032: rubber
+    100034: sunroof
+    100036: tires
+    100038: tlights
+    100040: trim
+    100042: trunk
+    100044: under
+    100046: //RootNode
+    400000: body
+    400002: bumpers
+    400004: chrome
+    400006: fdoor
+    400008: glass
+    400010: grill
+    400012: hlights
+    400014: hood
+    400016: inrims
+    400018: inrims2
+    400020: markers
+    400022: mirror
+    400024: rdoor
+    400026: rims
+    400028: rims2
+    400030: roof
+    400032: rubber
+    400034: sunroof
+    400036: tires
+    400038: tlights
+    400040: trim
+    400042: trunk
+    400044: under
+    400046: //RootNode
+    2300000: body
+    2300002: bumpers
+    2300004: chrome
+    2300006: fdoor
+    2300008: glass
+    2300010: grill
+    2300012: hlights
+    2300014: hood
+    2300016: inrims
+    2300018: inrims2
+    2300020: markers
+    2300022: mirror
+    2300024: rdoor
+    2300026: rims
+    2300028: rims2
+    2300030: roof
+    2300032: rubber
+    2300034: sunroof
+    2300036: tires
+    2300038: tlights
+    2300040: trim
+    2300042: trunk
+    2300044: under
+    3300000: body
+    3300002: bumpers
+    3300004: chrome
+    3300006: fdoor
+    3300008: glass
+    3300010: grill
+    3300012: hlights
+    3300014: hood
+    3300016: inrims
+    3300018: inrims2
+    3300020: markers
+    3300022: mirror
+    3300024: rdoor
+    3300026: rims
+    3300028: rims2
+    3300030: roof
+    3300032: rubber
+    3300034: sunroof
+    3300036: tires
+    3300038: tlights
+    3300040: trim
+    3300042: trunk
+    3300044: under
+    4300000: body
+    4300002: bumpers
+    4300004: chrome
+    4300006: fdoor
+    4300008: glass
+    4300010: grill
+    4300012: hlights
+    4300014: hood
+    4300016: inrims
+    4300018: inrims2
+    4300020: markers
+    4300022: mirror
+    4300024: rdoor
+    4300026: rims
+    4300028: rims2
+    4300030: roof
+    4300032: rubber
+    4300034: sunroof
+    4300036: tires
+    4300038: tlights
+    4300040: trim
+    4300042: trunk
+    4300044: under
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.9
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

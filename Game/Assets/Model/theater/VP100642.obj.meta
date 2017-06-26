@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 1086fefacc745a34492b68c3ac5ffd0e
+timeCreated: 1475497962
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _doorframes02
+    100002: _doorglass02
+    100004: _doormsnry02
+    100006: EST_BluMerc02
+    100008: EST_brks03
+    100010: EST_brks04
+    100012: EST_floors02
+    100014: EST_gls02
+    100016: EST_MarqBlu02
+    100018: EST_MarqDRK02
+    100020: EST_MarqSilver02
+    100022: EST_roof02
+    100024: EST_trm02
+    100026: EST_WhtMerc02
+    100028: EST_wndwframe03
+    100030: EST_wndwframe04
+    100032: EST_YlwMerc02
+    100034: //RootNode
+    400000: _doorframes02
+    400002: _doorglass02
+    400004: _doormsnry02
+    400006: EST_BluMerc02
+    400008: EST_brks03
+    400010: EST_brks04
+    400012: EST_floors02
+    400014: EST_gls02
+    400016: EST_MarqBlu02
+    400018: EST_MarqDRK02
+    400020: EST_MarqSilver02
+    400022: EST_roof02
+    400024: EST_trm02
+    400026: EST_WhtMerc02
+    400028: EST_wndwframe03
+    400030: EST_wndwframe04
+    400032: EST_YlwMerc02
+    400034: //RootNode
+    2300000: _doorframes02
+    2300002: _doorglass02
+    2300004: _doormsnry02
+    2300006: EST_BluMerc02
+    2300008: EST_brks03
+    2300010: EST_brks04
+    2300012: EST_floors02
+    2300014: EST_gls02
+    2300016: EST_MarqBlu02
+    2300018: EST_MarqDRK02
+    2300020: EST_MarqSilver02
+    2300022: EST_roof02
+    2300024: EST_trm02
+    2300026: EST_WhtMerc02
+    2300028: EST_wndwframe03
+    2300030: EST_wndwframe04
+    2300032: EST_YlwMerc02
+    3300000: _doorframes02
+    3300002: _doorglass02
+    3300004: _doormsnry02
+    3300006: EST_BluMerc02
+    3300008: EST_brks03
+    3300010: EST_brks04
+    3300012: EST_floors02
+    3300014: EST_gls02
+    3300016: EST_MarqBlu02
+    3300018: EST_MarqDRK02
+    3300020: EST_MarqSilver02
+    3300022: EST_roof02
+    3300024: EST_trm02
+    3300026: EST_WhtMerc02
+    3300028: EST_wndwframe03
+    3300030: EST_wndwframe04
+    3300032: EST_YlwMerc02
+    4300000: _doorframes02
+    4300002: _doorglass02
+    4300004: _doormsnry02
+    4300006: EST_BluMerc02
+    4300008: EST_brks03
+    4300010: EST_brks04
+    4300012: EST_floors02
+    4300014: EST_gls02
+    4300016: EST_MarqBlu02
+    4300018: EST_MarqDRK02
+    4300020: EST_MarqSilver02
+    4300022: EST_roof02
+    4300024: EST_trm02
+    4300026: EST_WhtMerc02
+    4300028: EST_wndwframe03
+    4300030: EST_wndwframe04
+    4300032: EST_YlwMerc02
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

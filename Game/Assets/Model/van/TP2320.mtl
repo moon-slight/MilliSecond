@@ -1,0 +1,167 @@
+newmtl BLUE_PLASTIC
+Ka  0 0 0.006
+Kd  0 0.026 0.476
+Ks  0.003 0.041 0.498
+Ns  43
+illum 2
+
+# Multi/Sub Material__90 (2) to come
+
+newmtl Material__90_BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+newmtl Material__90_SILVER
+Ka  0.078 0.078 0.078
+Kd  0.849 0.835 0.821
+Ks  0.857 0.843 0.829
+Ns  70
+refl reflect.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub Material__90 done
+
+# Multi/Sub Material__79 (2) to come
+
+newmtl Material__79_BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+newmtl Material__79_SILVER
+Ka  0.078 0.078 0.078
+Kd  0.849 0.835 0.821
+Ks  0.857 0.843 0.829
+Ns  70
+refl reflect.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub Material__79 done
+
+# Multi/Sub Material__68 (2) to come
+
+newmtl Material__68_BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+newmtl Material__68_SILVER
+Ka  0.078 0.078 0.078
+Kd  0.849 0.835 0.821
+Ks  0.857 0.843 0.829
+Ns  70
+refl reflect.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub Material__68 done
+
+# Multi/Sub Material__57 (2) to come
+
+newmtl Material__57_BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+newmtl Material__57_SILVER
+Ka  0.078 0.078 0.078
+Kd  0.849 0.835 0.821
+Ks  0.857 0.843 0.829
+Ns  70
+refl reflect.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub Material__57 done
+
+newmtl 1BLACK_MATTE
+Ka  0 0 0
+Kd  0.034 0.034 0.034
+Ks  0.051 0.051 0.051
+Ns  5
+illum 2
+
+newmtl BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+# Multi/Sub Material__46 (4) to come
+
+newmtl Material__46_BLUE_PLASTIC
+Ka  0 0 0.006
+Kd  0 0.026 0.476
+Ks  0.003 0.041 0.498
+Ns  43
+illum 2
+
+newmtl Material__46_BLUE_PLASTIC_B
+Ka  0 0 0.006
+Kd  0 0.026 0.476
+Ks  0.003 0.041 0.498
+Ns  43
+bump van2.tif
+illum 2
+
+newmtl Material__46_BLUE_PLASTIC_B2
+Ka  0 0 0.006
+Kd  0 0.026 0.476
+Ks  0.003 0.041 0.498
+Ns  43
+bump van2.tif
+illum 2
+
+newmtl Material__46_SILVER
+Ka  0.078 0.078 0.078
+Kd  0.849 0.835 0.821
+Ks  0.857 0.843 0.829
+Ns  70
+refl reflect.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub Material__46 done
+
+newmtl 1LIGHT
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  1
+map_Kd lattic1.tif
+#map_Kd_amt 1
+decal lattic1.tif
+illum 2
+
+# Multi/Sub Material__35 (2) to come
+
+newmtl Material__35_BLACK_MATTE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  5
+illum 2
+
+newmtl Material__35_WHITE_PLSTC
+Ka  0.001 0.001 0.001
+Kd  0.806 0.806 0.806
+Ks  0.816 0.816 0.816
+Ns  53
+illum 2
+
+# Multi/Sub Material__35 done
+
+# EOF
+

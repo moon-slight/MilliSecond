@@ -1,0 +1,112 @@
+newmtl gr1dk_dkrubber01
+Ka  0.006 0.006 0.006
+Kd  0.012 0.012 0.012
+Ks  0.008 0.008 0.008
+Ns  92
+illum 2
+
+newmtl gr3dk_dkdkgrey01
+Ka  0 0 0
+Kd  0.006 0.006 0.006
+Ks  0.106 0.106 0.106
+Ns  40
+illum 2
+
+newmtl egn2md_frstgnpaint01
+Ka  0 0.001 0
+Kd  0 0.031 0
+Ks  0.032 0.105 0.036
+Ns  92
+refl r_horizon_desert-grayscale01h.tif
+#refl_amt 0.35
+illum 3
+
+newmtl lite_br_ylorg-hdlight01
+Ka  0.111 0.111 0.111
+Kd  1 0.319 0
+Ks  0.941 0.443 0.073
+Ns  40
+bump b_pants2.tif
+refl r_horizon_lake01h.tif
+#refl_amt 1
+illum 3
+
+newmtl ebl3dk_tinted-glass02
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.518 0.518 0.518
+Ns  34
+refl r_clouds_thick02.tif
+#refl_amt 0.15
+illum 3
+
+newmtl egr4md_mirror01
+Ka  0 0 0
+Kd  0.055 0.048 0.038
+Ks  0.985 0.984 0.984
+Ns  64
+refl r_horizon_desert01h.tif
+#refl_amt 0.73
+illum 3
+
+newmtl rdlite_br_redlite03
+Ka  0.111 0.111 0.111
+Kd  0.515 0 0
+Ks  0.597 0.081 0.081
+Ns  40
+bump b_pants2.tif
+refl r_horizon_lake01h.tif
+#refl_amt 0.3
+illum 3
+
+newmtl lite_br_headlite04
+Ka  0.111 0.111 0.111
+Kd  0.424 0.419 0.389
+Ks  0.527 0.523 0.499
+Ns  90
+bump b_pants2.tif
+refl r_horizon_lake01h.tif
+#refl_amt 0.5
+illum 3
+
+newmtl egr3lt_chrme-ktchn01
+Ka  0.207 0.207 0.207
+Kd  0.779 0.779 0.779
+Ks  0.631 0.631 0.631
+Ns  45
+refl r_kitchen01h.tif
+#refl_amt 0.75
+illum 3
+
+# Multi/Sub luxury_tire (2) to come
+
+newmtl luxury_tire_tread_bd_luxury01
+Ka  0.01 0.01 0.01
+Kd  0.075 0.075 0.075
+Ks  0.037 0.037 0.037
+Ns  40
+map_Kd d_tread_luxury01i.tif
+#map_Kd_amt 1
+bump b_tread_luxury01i.tif
+illum 2
+
+newmtl luxury_tire_tire_bd_luxury01
+Ka  0.01 0.01 0.01
+Kd  0.075 0.075 0.075
+Ks  0.037 0.037 0.037
+Ns  40
+map_Kd d_tire_luxury01h.tif
+#map_Kd_amt 1
+bump b_tire_luxury01h.tif
+illum 2
+
+# Multi/Sub luxury_tire done
+
+newmtl gr1lt_wht-flat01
+Ka  1 1 1
+Kd  0.992 0.992 0.992
+Ns  1
+illum 1
+
+# EOF
+

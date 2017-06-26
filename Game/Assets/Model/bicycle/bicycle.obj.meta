@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: af4e4ba942f4f204197e69d8930e834d
+timeCreated: 1463215485
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chain
+    100002: frame
+    100004: frim
+    100006: frim2
+    100008: front
+    100010: frontbar
+    100012: fspokes
+    100014: ftire
+    100016: gears
+    100018: gteeth
+    100020: handles
+    100022: pedals
+    100024: rrim
+    100026: rrim2
+    100028: rspokes
+    100030: rtire
+    100032: seat
+    100034: seatbar
+    100036: shift
+    100038: //RootNode
+    400000: chain
+    400002: frame
+    400004: frim
+    400006: frim2
+    400008: front
+    400010: frontbar
+    400012: fspokes
+    400014: ftire
+    400016: gears
+    400018: gteeth
+    400020: handles
+    400022: pedals
+    400024: rrim
+    400026: rrim2
+    400028: rspokes
+    400030: rtire
+    400032: seat
+    400034: seatbar
+    400036: shift
+    400038: //RootNode
+    2300000: chain
+    2300002: frame
+    2300004: frim
+    2300006: frim2
+    2300008: front
+    2300010: frontbar
+    2300012: fspokes
+    2300014: ftire
+    2300016: gears
+    2300018: gteeth
+    2300020: handles
+    2300022: pedals
+    2300024: rrim
+    2300026: rrim2
+    2300028: rspokes
+    2300030: rtire
+    2300032: seat
+    2300034: seatbar
+    2300036: shift
+    3300000: chain
+    3300002: frame
+    3300004: frim
+    3300006: frim2
+    3300008: front
+    3300010: frontbar
+    3300012: fspokes
+    3300014: ftire
+    3300016: gears
+    3300018: gteeth
+    3300020: handles
+    3300022: pedals
+    3300024: rrim
+    3300026: rrim2
+    3300028: rspokes
+    3300030: rtire
+    3300032: seat
+    3300034: seatbar
+    3300036: shift
+    4300000: chain
+    4300002: frame
+    4300004: frim
+    4300006: frim2
+    4300008: front
+    4300010: frontbar
+    4300012: fspokes
+    4300014: ftire
+    4300016: gears
+    4300018: gteeth
+    4300020: handles
+    4300022: pedals
+    4300024: rrim
+    4300026: rrim2
+    4300028: rspokes
+    4300030: rtire
+    4300032: seat
+    4300034: seatbar
+    4300036: shift
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .899999976
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

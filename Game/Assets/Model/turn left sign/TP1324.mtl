@@ -1,0 +1,32 @@
+newmtl Material__35_1GREY_PLSTC
+Ka  0.002 0.002 0.002
+Kd  0.229 0.229 0.229
+Ks  0.255 0.255 0.255
+Ns  30
+illum 2
+
+newmtl Material__35_RED_PLASTIC
+Ka  0.006 0 0
+Kd  1 0 0
+Ks  1 0.003 0.003
+Ns  79
+illum 2
+
+newmtl Material__35_WHITE_PLSTC
+Ka  0.001 0.001 0.001
+Kd  0.806 0.806 0.806
+Ks  0.816 0.816 0.816
+Ns  53
+illum 2
+
+newmtl Material__35_BLACK_PLSTC
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.003 0.003
+Ns  53
+illum 2
+
+# Multi/Sub Material__35 done
+
+# EOF
+

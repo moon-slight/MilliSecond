@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 9b3d879a62af0dc49981db809c4ba150
+timeCreated: 1475498101
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Fibwc_antenna
+    100002: Fibwc_antlite
+    100004: Fibwc_blksteel
+    100006: Fibwc_glass
+    100008: Fibwc_Hvac
+    100010: Fibwc_main_ext
+    100012: Fibwc_main_ext_2
+    100014: Fibwc_main_ext_2_MeshPart0
+    100016: Fibwc_main_ext_2_MeshPart1
+    100018: Fibwc_roof
+    100020: //RootNode
+    400000: Fibwc_antenna
+    400002: Fibwc_antlite
+    400004: Fibwc_blksteel
+    400006: Fibwc_glass
+    400008: Fibwc_Hvac
+    400010: Fibwc_main_ext
+    400012: Fibwc_main_ext_2
+    400014: Fibwc_main_ext_2_MeshPart0
+    400016: Fibwc_main_ext_2_MeshPart1
+    400018: Fibwc_roof
+    400020: //RootNode
+    2300000: Fibwc_antenna
+    2300002: Fibwc_antlite
+    2300004: Fibwc_blksteel
+    2300006: Fibwc_glass
+    2300008: Fibwc_Hvac
+    2300010: Fibwc_main_ext
+    2300012: Fibwc_main_ext_2_MeshPart0
+    2300014: Fibwc_main_ext_2_MeshPart1
+    2300016: Fibwc_roof
+    3300000: Fibwc_antenna
+    3300002: Fibwc_antlite
+    3300004: Fibwc_blksteel
+    3300006: Fibwc_glass
+    3300008: Fibwc_Hvac
+    3300010: Fibwc_main_ext
+    3300012: Fibwc_main_ext_2_MeshPart0
+    3300014: Fibwc_main_ext_2_MeshPart1
+    3300016: Fibwc_roof
+    4300000: Fibwc_antenna
+    4300002: Fibwc_antlite
+    4300004: Fibwc_blksteel
+    4300006: Fibwc_glass
+    4300008: Fibwc_Hvac
+    4300010: Fibwc_main_ext
+    4300012: Fibwc_main_ext_2_MeshPart0
+    4300014: Fibwc_main_ext_2_MeshPart1
+    4300016: Fibwc_roof
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,80 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.00.00.1630
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl chrome
+Ka 0 0 0
+Kd 0.714048 0.714048 0.714048
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+
+newmtl blinn4
+Ka 0 0 0
+Kd 0.8 0.0321333 0
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+d 0.5372
+
+newmtl blinn5
+Ka 0 0 0
+Kd 0.8 0.397653 0.064
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+d 0.83472
+
+newmtl bodyPaint
+Ka 0 0 0
+Kd 0.8 0.709067 0
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+
+newmtl trim
+Ka 0 0 0
+Kd 0 0 0
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+
+newmtl tire
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+illum 2
+Ns 2
+
+newmtl blinn7
+Ka 0.307824 0.363 0.356158
+Kd 0.773552 0.773552 0.773552
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+d 0.67768
+
+newmtl blinn8
+Ka 0 0 0
+Kd 0.515696 0.515696 0.515696
+Ks 0.11 0.11 0.11
+illum 2
+Ns 2
+d 0.4628
+
+newmtl lambert5
+Ka 0 0 0
+Kd 0.628096 0.628096 0.628096
+Ks 0 0 0
+illum 2
+Ns 2
+
+newmtl interior
+Ka 0 0 0
+Kd 0.085952 0.085952 0.085952
+Ks 0 0 0
+illum 2
+Ns 2

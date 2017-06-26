@@ -1,0 +1,63 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.0.448
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl Fibwc_antenna
+Ka 0 0 0
+Kd 0.580392 0.580392 0.580392
+Ks 0.141176 0.141176 0.141176
+illum 2
+Ns 26.9087
+
+newmtl Fibwc_Hvac
+Ka 0 0 0
+Kd 0.443137 0.443137 0.443137
+Ks 0.117647 0.117647 0.117647
+illum 2
+Ns 9.84916
+
+newmtl Fibwc_roof
+Ka 0 0 0
+Kd 0.12549 0.12549 0.12549
+Ks 0.00941177 0.00941177 0.00941177
+illum 2
+Ns 6.72717
+
+newmtl Fibwc_main_ext
+Ka 0 0 0
+Kd 0.517647 0.517647 0.517647
+Ks 0.0588235 0.0588235 0.0588235
+illum 2
+Ns 6.49802
+
+newmtl Fibwc_antlite
+Ka 0 0 0
+Kd 1 0 0
+Ks 0.4 0 0
+illum 2
+Ns 12.5533
+
+newmtl Fibwc_blksteel
+Ka 0 0 0
+Kd 0.192157 0.192157 0.192157
+Ks 0.0480392 0.0480392 0.0480392
+illum 2
+Ns 25.9921
+
+newmtl Fibwc_glass
+Ka 0 0 0
+Kd 0 0.4 0.4
+Ks 0 0.378 0.378
+illum 2
+Ns 8
+d 0.635
+
+newmtl Fibwc_main_ext_2
+Ka 0 0 0
+Kd 0.470588 0.470588 0.470588
+Ks 0.0588235 0.0588235 0.0588235
+illum 2
+Ns 6.49802

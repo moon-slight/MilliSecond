@@ -1,0 +1,1574 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5 5.0.3.1555 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl antenna_smooth
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl bedliner_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl bedliner_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl cab_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_gap
+Ka 0.0458824 0.0458824 0.0458824
+Kd 0.152941 0.152941 0.152941
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_handle_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_handle_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_trim_flat
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl door_trim_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl exhaust_flat
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl exhaust_smooth
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl fog_gap
+Ka 0.0423529 0.0423529 0.0423529
+Kd 0.141176 0.141176 0.141176
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl fog_glass
+Ka 0.0247059 0.0247059 0.0247059
+Kd 0.0823529 0.0823529 0.0823529
+Ks 0.0741176 0.0741176 0.0741176
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl fog_inner_flat
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl fog_inner_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_black
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_black_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_black_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_chrome
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_gap
+Ka 0.0682353 0.0682353 0.0682353
+Kd 0.227451 0.227451 0.227451
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_bumper_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl front_fender_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl gas_gap
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl grill_black_gap
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl grill_black_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl grill_chrome_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl grill_mesh
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl gutter_gap
+Ka 0.0458824 0.0458824 0.0458824
+Kd 0.152941 0.152941 0.152941
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl gutter_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_gap
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_glass
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.197647 0.197647 0.197647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_glass_edge
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_black_flat
+Ka 0.0623529 0.0623529 0.0623529
+Kd 0.207843 0.207843 0.207843
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_black_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_chrome_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_gap
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_glass
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.197647 0.197647 0.197647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_glass_edge
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_turn_flat
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.225882 0.225882 0.225882
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_turn_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_inner_turn_yellow
+Ka 0.276471 0.215294 0.00117647
+Kd 0.921569 0.717647 0.00392157
+Ks 0.829412 0.645882 0.00352941
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl headlight_tube_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl hood_gap
+Ka 0.0576471 0.0576471 0.0576471
+Kd 0.192157 0.192157 0.192157
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl hood_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl hook_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl key_hole
+Ka 0.150588 0.150588 0.150588
+Kd 0.501961 0.501961 0.501961
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl logo_chrome
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl logo_gap
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl logo_gold
+Ka 0.28 0.243529 0.117647
+Kd 0.933333 0.811765 0.392157
+Ks 0.746667 0.649412 0.313726
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl logo_outline
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl mirror_gap
+Ka 0.0376471 0.0376471 0.0376471
+Kd 0.12549 0.12549 0.12549
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl mirror_glass
+Ka 0.150588 0.150588 0.150588
+Kd 0.501961 0.501961 0.501961
+Ks 0.451765 0.451765 0.451765
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl mirror_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_black
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_chrome
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.677647 0.677647 0.677647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_flat
+Ka 0.0529412 0.0529412 0.0529412
+Kd 0.176471 0.176471 0.176471
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_gap
+Ka 0.0564706 0.0564706 0.0564706
+Kd 0.188235 0.188235 0.188235
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_light
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_light_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_bumper_light_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_fender_gap
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_fender_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_window
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.153725 0.153725 0.153725
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_window_edge
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.175686 0.175686 0.175686
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl rear_window_gap
+Ka 0.0623529 0.0623529 0.0623529
+Kd 0.207843 0.207843 0.207843
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl roof_light_gap
+Ka 0.0364706 0.0364706 0.0364706
+Kd 0.121569 0.121569 0.121569
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl roof_light_red
+Ka 0.150588 0 0
+Kd 0.501961 0 0
+Ks 0.200784 0 0
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl roof_light_white
+Ka 0.257647 0.257647 0.257647
+Kd 0.858824 0.858824 0.858824
+Ks 0.343529 0.343529 0.343529
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl roof_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_black_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_black_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_gap
+Ka 0.0541177 0.0541177 0.0541177
+Kd 0.180392 0.180392 0.180392
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_latch_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_latch_gap
+Ka 0.0564706 0.0564706 0.0564706
+Kd 0.188235 0.188235 0.188235
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_latch_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0878431 0.0878431 0.0878431
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_light_gap
+Ka 0.0458824 0.0458824 0.0458824
+Kd 0.152941 0.152941 0.152941
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_light_red
+Ka 0.150588 0 0
+Kd 0.501961 0 0
+Ks 0.200784 0 0
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_light_white
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.301176 0.301176 0.301176
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tail_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.602353 0.602353 0.602353
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tire_flat
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl tire_smooth
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0.06 0.06 0.06
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl under_bed
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl under_cab
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wheel_black
+Ka 0.06 0.06 0.06
+Kd 0.2 0.2 0.2
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wheel_lug_flat
+Ka 0.150588 0.150588 0.150588
+Kd 0.501961 0.501961 0.501961
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wheel_lug_smooth
+Ka 0.150588 0.150588 0.150588
+Kd 0.501961 0.501961 0.501961
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wheel_smooth
+Ka 0.225882 0.225882 0.225882
+Kd 0.752941 0.752941 0.752941
+Ks 0.527059 0.527059 0.527059
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl window_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.197647 0.197647 0.197647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl window_trim_gap
+Ka 0.0694118 0.0694118 0.0694118
+Kd 0.231373 0.231373 0.231373
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl window_trim_smooth
+Ka 0.0435294 0.0435294 0.0435294
+Kd 0.145098 0.145098 0.145098
+Ks 0.0580392 0.0580392 0.0580392
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl windshield
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.197647 0.197647 0.197647
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl windshield_edge
+Ka 0.0423529 0.0423529 0.0423529
+Kd 0.141176 0.141176 0.141176
+Ks 0.0988235 0.0988235 0.0988235
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl windshield_trim_gap
+Ka 0.0564706 0.0564706 0.0564706
+Kd 0.188235 0.188235 0.188235
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl windshield_trim_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wiper_flat
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0 0 0
+illum 2
+Ns 25
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wiper_smooth
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0439216 0.0439216 0.0439216
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns
+
+newmtl wiper_well
+Ka 0.0658824 0.0658824 0.0658824
+Kd 0.219608 0.219608 0.219608
+Ks 0.0658824 0.0658824 0.0658824
+illum 2
+Ns 64
+map_Kd
+map_bump
+bump
+map_opacity
+map_d
+refl
+map_kS
+map_kA
+map_Ns

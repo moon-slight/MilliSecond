@@ -1,0 +1,143 @@
+newmtl gr3dk_dkgrey01
+Ka  0.01 0.01 0.01
+Kd  0.017 0.017 0.017
+Ks  0.13 0.13 0.13
+Ns  40
+illum 2
+
+newmtl egr4md_mirror01
+Ka  0 0 0
+Kd  0.055 0.048 0.038
+Ks  0.985 0.984 0.984
+Ns  64
+refl r_horizon_desert01h.tif
+#refl_amt 0.73
+illum 3
+
+newmtl etyl3md_ylor01
+Ka  0.567 0.133 0.01
+Kd  1 0.374 0
+Ks  0.81 0.81 0.81
+Ns  68
+refl r_horizon_lake01h.tif
+#refl_amt 0.2
+d  0.75
+illum 3
+
+newmtl egr5lt_chrome01
+Ka  0 0 0
+Kd  0.328 0.328 0.328
+Ks  0.648 0.648 0.648
+Ns  82
+refl r_horizon_desert-grayscale01h.tif
+#refl_amt 1
+illum 3
+
+newmtl egr5lt_headlight01
+Ka  0.111 0.111 0.111
+Kd  0.916 0.916 0.916
+Ks  0.883 0.883 0.883
+Ns  40
+refl r_horizon_lake01h.tif
+#refl_amt 1
+illum 3
+
+newmtl ebl2md_bl-paint01
+Ka  0.125 0.125 0.125
+Kd  0.001 0 0.591
+Ks  0.044 0.032 0.657
+Ns  92
+refl r_horizon_desert-grayscale01h.tif
+#refl_amt 0.35
+illum 3
+
+newmtl etrd4md_brake-lts01
+Ka  0.45 0.01 0.01
+Kd  0.665 0 0
+Ks  0.81 0.81 0.81
+Ns  68
+refl r_horizon_lake01h.tif
+#refl_amt 0.2
+d  0.75
+illum 3
+
+newmtl gr2dk_mddkgrey01
+Ka  0 0 0
+Kd  0.028 0.028 0.028
+Ks  0.061 0.061 0.061
+Ns  21
+illum 2
+
+newmtl gr1dk_flat-black01
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  22
+illum 2
+
+newmtl gr1lt_ltgrey01
+Ka  0 0 0
+Kd  0.744 0.744 0.744
+Ks  0.365 0.365 0.365
+Ns  40
+illum 2
+
+# Multi/Sub gr1lt_flannel01 (2) to come
+
+newmtl gr1lt_flannel01_tread_bd_luxury01
+Ka  0.01 0.01 0.01
+Kd  0.49 0.49 0.49
+Ks  0.24 0.24 0.24
+Ns  40
+map_Ka d_tread_luxury01i.tif
+#map_Ka_amt 1
+map_Kd d_tread_luxury01i.tif
+#map_Kd_amt 1
+bump b_tread_luxury01i.tif
+illum 2
+
+newmtl gr1lt_flannel01_tire_bd_luxury01
+Ka  0.01 0.01 0.01
+Kd  0.49 0.49 0.49
+Ks  0.24 0.24 0.24
+Ns  40
+map_Ka d_tire_luxury01h.tif
+#map_Ka_amt 1
+map_Kd d_tire_luxury01h.tif
+#map_Kd_amt 1
+bump b_tire_luxury01h.tif
+illum 2
+
+# Multi/Sub gr1lt_flannel01 done
+
+newmtl ebl3dk_glass01
+Ka  0 0 0
+Kd  0 0.001 0.018
+Ks  0.422 0.439 0.485
+Ns  43
+refl r_clouds_thick02.tif
+#refl_amt 0.25
+illum 3
+
+# EOF
+
+_luxury01h.tif
+#map_Kd_amt 1
+bump b_tire_luxury01h.tif
+illum 2
+
+# Multi/Sub gr1lt_flannel01 done
+
+newmtl ebl3dk_glass01
+Ka  0 0 0
+Kd  0 0.001 0.018
+Ks  0.422 0.439 0.485
+Ns  43
+refl r_clouds_thick02.tif
+#refl_amt 0.25
+illum 3
+
+# EOF
+
+�mtl gr.83 on_l.tif
+#

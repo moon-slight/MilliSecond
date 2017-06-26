@@ -1,0 +1,1082 @@
+newmtl BILL_P_EYE
+Ka  0 0 0
+Kd  0 0 0
+Ks  1 1 1
+Ns  50
+map_Kd blp_eye.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl BILL_P_EYE_LID
+Ka  0.004 0.001 0
+Kd  0.293 0.043 0.004
+Ns  1
+map_Kd blp_lid.tif
+#map_Kd_amt 1
+map_d blp_lid.tif
+illum 1
+
+newmtl BIL_SURGY_PANT
+Ka  0 0 0
+Kd  0.025 0.087 0.555
+Ks  0.033 0.101 0.58
+Ns  15
+map_Kd surg_bot.tif
+#map_Kd_amt 1
+bump surg_bot.tif
+illum 2
+
+# Multi/Sub Material__25 (2) to come
+
+newmtl Material__25_BIL_SRT_PL1_BOD
+Ka  0.01 0.001 0.011
+Kd  0.057 0.005 0.067
+Ks  0.081 0.015 0.092
+Ns  15
+bump sr_po_t1.tif
+illum 2
+
+newmtl Material__25_BIL_SRT_LS_BTN
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd m_butn_t.tif
+#map_Kd_amt 0.55
+bump m_butn_t.tif
+illum 1
+
+# Multi/Sub Material__25 done
+
+# Multi/Sub Material__26 (2) to come
+
+newmtl Material__26_BIL_SURGY_SHIRT
+Ka  0 0 0
+Kd  0.025 0.087 0.555
+Ks  0.033 0.101 0.58
+Ns  15
+map_Kd surg_top.tif
+#map_Kd_amt 1
+bump surg_top.tif
+illum 2
+
+newmtl Material__26_BIL_SURGY_SLV
+Ka  0 0 0
+Kd  0.025 0.087 0.555
+Ks  0.033 0.101 0.58
+Ns  15
+map_Kd surg_slv.tif
+#map_Kd_amt 1
+bump surg_slv.tif
+illum 2
+
+# Multi/Sub Material__26 done
+
+# Multi/Sub Material__27 (3) to come
+
+newmtl Material__27_BIL_STETHO_BLACK
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.195 0.195 0.195
+Ns  52
+illum 2
+
+newmtl Material__27_BIL_STETHO_RUBBR
+Ka  0.163 0.02 0.011
+Kd  0.272 0.08 0.043
+Ks  0.423 0.243 0.122
+Ns  32
+d  0.95
+illum 2
+
+newmtl Material__27_BIL_STETHO_CHROM
+Ka  0.008 0.008 0.008
+Kd  0.214 0.214 0.214
+Ks  0.603 0.603 0.603
+Ns  73
+refl house2_l.tif
+#refl_amt 0.42
+illum 3
+
+# Multi/Sub Material__27 done
+
+# Multi/Sub Material__28 (6) to come
+
+newmtl Material__28_BIL_SRT_TI_BTN
+Ka  0 0 0
+Kd  0.293 0.585 0.704
+Ks  0.549 0.549 0.549
+Ns  24
+map_Kd m_butn_t.tif
+#map_Kd_amt 0.5
+bump m_butn_t.tif
+d  0.9
+illum 2
+
+newmtl Material__28_BIL_SRT_TI_BOD
+Ka  0.332 0.332 0.332
+Kd  0.665 0.665 0.665
+Ks  0.711 0.711 0.711
+Ns  15
+bump shrt_wht.tif
+illum 2
+
+newmtl Material__28_BIL_SRT_TI_TIE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.088 0.066 0.051
+Ns  21
+map_Kd tie-brng.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__28_BIL_SMOCK_BODY
+Ka  0.264 0.264 0.264
+Kd  0.621 0.621 0.621
+Ks  0.642 0.642 0.642
+Ns  6
+map_Kd smk_dtrt.tif
+#map_Kd_amt 0.3
+bump smk_dtrb.tif
+illum 2
+
+newmtl Material__28_BIL_SMOCK_SLEVE
+Ka  0.264 0.264 0.264
+Kd  0.621 0.621 0.621
+Ns  1
+map_Kd smk_slvt.tif
+#map_Kd_amt 0.5
+bump smk_slvt.tif
+illum 1
+
+newmtl Material__28_BIL_SRT_TI_SLV
+Ka  0.323 0.323 0.323
+Kd  0.646 0.646 0.646
+Ks  0.694 0.694 0.694
+Ns  15
+bump m_slev_b.tif
+illum 2
+
+# Multi/Sub Material__28 done
+
+# Multi/Sub Material__29 (4) to come
+
+newmtl Material__29_BILL_P_BODY
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_bod.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__29_BILL_P_MTH_IN2
+Ka  0.013 0.003 0.003
+Kd  0.075 0.016 0.021
+Ks  0.179 0.044 0.055
+Ns  40
+illum 2
+
+newmtl Material__29_BILL_P_MTH_LIPS
+Ka  0.013 0.003 0.003
+Kd  0.346 0.033 0.033
+Ks  0.377 0.059 0.066
+Ns  40
+illum 2
+
+newmtl Material__29_BILL_P_MTH_IN1
+Ka  0.013 0.003 0.003
+Kd  0.075 0.016 0.021
+Ks  0.179 0.044 0.055
+Ns  40
+illum 2
+
+# Multi/Sub Material__29 done
+
+# Multi/Sub Material__30 (2) to come
+
+newmtl Material__30_BILL_P_ARM
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd bil_p_ar.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__30_BILL_P_NAIL
+Ka  0.394 0.207 0.207
+Kd  0.609 0.46 0.46
+Ks  0.409 0.377 0.377
+Ns  48
+map_Kd bil_p_ar.tif
+#map_Kd_amt 0.8
+illum 2
+
+# Multi/Sub Material__30 done
+
+# Multi/Sub Material__31 (4) to come
+
+newmtl Material__31_BILL_WES_SRT_BOD
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd wst_srt2.tif
+#map_Kd_amt 1
+illum 1
+
+newmtl Material__31_BILL_SRT_WST_COL
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd wes_colr.tif
+#map_Kd_amt 1
+illum 1
+
+newmtl Material__31_BILL_SRT_WST_SLV
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd wes_slev.tif
+#map_Kd_amt 1
+illum 1
+
+newmtl Material__31_BILL_SRT_WST_YOK
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd wes_yoke.tif
+#map_Kd_amt 1
+illum 1
+
+# Multi/Sub Material__31 done
+
+newmtl BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+# Multi/Sub Material__32 (2) to come
+
+newmtl Material__32_BILL_P_ARM
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd bil_p_ar.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__32_BILL_P_NAIL
+Ka  0.394 0.207 0.207
+Kd  0.609 0.46 0.46
+Ks  0.409 0.377 0.377
+Ns  48
+map_Kd bil_p_ar.tif
+#map_Kd_amt 0.8
+illum 2
+
+# Multi/Sub Material__32 done
+
+# Multi/Sub Material__33 (15) to come
+
+newmtl Material__33_BILL_J1_SEAM1
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_sem_t.tif
+#map_Kd_amt 1
+bump jl_sem_t.tif
+illum 2
+
+newmtl Material__33_BILL_J1_RIVET
+Ka  0.031 0.007 0
+Kd  0.374 0.078 0
+Ks  0 0 0
+Ns  75
+refl house2_l.tif
+#refl_amt 0.7
+illum 3
+
+newmtl Material__33_BILL_J1_BUTTON
+Ka  0.031 0.007 0
+Kd  0.328 0.067 0
+Ns  76
+map_Kd jl_btn_t.tif
+#map_Kd_amt 0.61
+map_Ks jl_btn_t.tif
+#map_Ks_amt 1
+map_Ns jl_btn_t.tif
+bump jl_btn_t.tif
+refl house2_l.tif
+#refl_amt 0.2
+illum 1
+
+newmtl Material__33_BILL_J1_WAIST
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_wst_t.tif
+#map_Kd_amt 1
+bump jl_wst_t.tif
+illum 2
+
+newmtl Material__33_BILL_J1_LEG_F_L
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd jl_lfl_t.tif
+#map_Kd_amt 1
+bump jl_lfl_b.tif
+illum 1
+
+newmtl Material__33_BILL_J1_PANEL
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_pnl_t.tif
+#map_Kd_amt 1
+bump jl_pnl_t.tif
+illum 2
+
+newmtl Material__33_BILL_J1_LOOP
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_lop_t.tif
+#map_Kd_amt 1
+bump jl_lop_t.tif
+illum 2
+
+newmtl Material__33_BILL_J1_LEG_B_R
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd jl_lbl_t.tif
+#map_Kd_amt 1
+bump jl_lbr_b.tif
+illum 1
+
+newmtl Material__33_BILL_J1_LABLE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  6
+map_Kd jl_lab_t.tif
+#map_Kd_amt 1
+bump jl_lab_b.tif
+illum 2
+
+newmtl Material__33_BILL_J1_TAB
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd jl_tab_t.tif
+#map_Kd_amt 1
+illum 1
+
+newmtl Material__33_BILL_J1_LEG_B_L
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd jl_lbl_t.tif
+#map_Kd_amt 1
+bump jl_lbl_b.tif
+illum 1
+
+newmtl Material__33_BILL_J1_LEG_F_R
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+map_Kd jl_lfr_t.tif
+#map_Kd_amt 1
+bump jl_lfr_b.tif
+illum 1
+
+newmtl Material__33_BILL_J1_PKT_WTC
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_pkw_t.tif
+#map_Kd_amt 1
+bump jl_pkw_t.tif
+illum 2
+
+newmtl Material__33_BILL_J1_PKT_BAK
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_pkt_t.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__33_BILL_J1_SEAM2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.003 0.004 0.005
+Ns  9
+map_Kd jl_sem_t.tif
+#map_Kd_amt 1
+bump jl_sem_t.tif
+illum 2
+
+# Multi/Sub Material__33 done
+
+# Multi/Sub Material__34 (7) to come
+
+newmtl Material__34_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__34_BILL_TNY_BOD
+Ka  0.319 0.319 0.319
+Kd  0.319 0.319 0.319
+Ks  0.37 0.359 0.349
+Ns  10
+illum 2
+
+newmtl Material__34_BILL_TNY_BLUE_LT
+Ka  0.01 0.01 0.166
+Kd  0.027 0.027 0.434
+Ks  0.058 0.058 0.263
+Ns  30
+illum 2
+
+newmtl Material__34_BILL_TNY_SOL
+Ka  0.419 0.419 0.419
+Kd  0.585 0.585 0.585
+Ks  0.744 0.744 0.744
+Ns  50
+illum 2
+
+newmtl Material__34_BILL_TNY_GRAY
+Ka  0.057 0.057 0.057
+Kd  0.264 0.264 0.264
+Ks  0.282 0.282 0.282
+Ns  5
+illum 2
+
+newmtl Material__34_BILL_TNY_BLUE_DK
+Ka  0.006 0.006 0.021
+Kd  0.019 0.019 0.069
+Ks  0.051 0.051 0.087
+Ns  30
+illum 2
+
+newmtl Material__34_BILL_TNY_LACE
+Ka  0.057 0.057 0.057
+Kd  0.264 0.264 0.264
+Ks  0.282 0.282 0.282
+Ns  5
+bump cloth_p1.tif
+illum 2
+
+# Multi/Sub Material__34 done
+
+# Multi/Sub Material__35 (7) to come
+
+newmtl Material__35_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__35_BILL_TNY_BOD
+Ka  0.319 0.319 0.319
+Kd  0.319 0.319 0.319
+Ks  0.37 0.359 0.349
+Ns  10
+illum 2
+
+newmtl Material__35_BILL_TNY_BLUE_LT
+Ka  0.01 0.01 0.166
+Kd  0.027 0.027 0.434
+Ks  0.058 0.058 0.263
+Ns  30
+illum 2
+
+newmtl Material__35_BILL_TNY_SOL
+Ka  0.419 0.419 0.419
+Kd  0.585 0.585 0.585
+Ks  0.744 0.744 0.744
+Ns  50
+illum 2
+
+newmtl Material__35_BILL_TNY_GRAY
+Ka  0.057 0.057 0.057
+Kd  0.264 0.264 0.264
+Ks  0.282 0.282 0.282
+Ns  5
+illum 2
+
+newmtl Material__35_BILL_TNY_BLUE_DK
+Ka  0.006 0.006 0.021
+Kd  0.019 0.019 0.069
+Ks  0.051 0.051 0.087
+Ns  30
+illum 2
+
+newmtl Material__35_BILL_TNY_LACE
+Ka  0.057 0.057 0.057
+Kd  0.264 0.264 0.264
+Ks  0.282 0.282 0.282
+Ns  5
+bump cloth_p1.tif
+illum 2
+
+# Multi/Sub Material__35 done
+
+# Multi/Sub Material__36 (4) to come
+
+newmtl Material__36_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__36_BIL_SHOE_LFR_1
+Ka  0.02 0.002 0
+Kd  0.233 0.034 0.003
+Ks  0.25 0.036 0.003
+Ns  35
+illum 2
+
+newmtl Material__36_BIL_SHOE_LFRSOLE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.035 0.035 0.035
+Ns  50
+illum 2
+
+newmtl Material__36_BIL_SHOE_LFR_2
+Ka  0.02 0.002 0
+Kd  0.071 0.007 0
+Ks  0.109 0.015 0
+Ns  5
+illum 2
+
+# Multi/Sub Material__36 done
+
+# Multi/Sub Material__37 (4) to come
+
+newmtl Material__37_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__37_BIL_SHOE_LFR_1
+Ka  0.02 0.002 0
+Kd  0.233 0.034 0.003
+Ks  0.25 0.036 0.003
+Ns  35
+illum 2
+
+newmtl Material__37_BIL_SHOE_LFRSOLE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.035 0.035 0.035
+Ns  50
+illum 2
+
+newmtl Material__37_BIL_SHOE_LFR_2
+Ka  0.02 0.002 0
+Kd  0.071 0.007 0
+Ks  0.109 0.015 0
+Ns  5
+illum 2
+
+# Multi/Sub Material__37 done
+
+# Multi/Sub Material__38 (4) to come
+
+newmtl Material__38_BILL_STIE2
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump shrt_wt2.tif
+illum 2
+
+newmtl Material__38_BILL_STIE2_SLV
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump m_slev_b.tif
+illum 2
+
+newmtl Material__38_BILL_STIE2_COLR
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump shrt_wht.tif
+illum 2
+
+newmtl Material__38_BILL_STIE2_TIE
+Ka  0 0 0
+Kd  0.027 0 0.946
+Ks  0.167 0.069 0.787
+Ns  21
+map_Kd tie-brng.tif
+#map_Kd_amt 0.66
+illum 2
+
+# Multi/Sub Material__38 done
+
+# Multi/Sub Material__39 (4) to come
+
+newmtl Material__39_BILL_STIE2
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump shrt_wt2.tif
+illum 2
+
+newmtl Material__39_BILL_STIE2_COLR
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump shrt_wht.tif
+illum 2
+
+newmtl Material__39_BILL_STIE2_TIE
+Ka  0 0 0
+Kd  0.027 0 0.946
+Ks  0.167 0.069 0.787
+Ns  21
+map_Kd tie-brng.tif
+#map_Kd_amt 0.66
+illum 2
+
+newmtl Material__39_BILL_STIE_SLV
+Ka  0.133 0.133 0.133
+Kd  0.466 0.466 0.466
+Ks  0.523 0.523 0.523
+Ns  15
+bump m_slev_b.tif
+illum 2
+
+# Multi/Sub Material__39 done
+
+# Multi/Sub Material__40 (5) to come
+
+newmtl Material__40_BILL_SLKS_BUCKLE
+Ka  0.055 0.055 0.055
+Kd  0.13 0.13 0.13
+Ks  1 1 1
+Ns  94
+refl house2_l.tif
+#refl_amt 0.95
+d  0.85
+illum 3
+
+newmtl Material__40_BILL_SLKS_L
+Ka  0.236 0.03 0.145
+Kd  0.207 0.089 0.054
+Ks  0.221 0.098 0.054
+Ns  9
+map_Kd slack_l.tif
+#map_Kd_amt 0.5
+bump slack_lb.tif
+illum 2
+
+newmtl Material__40_BILL_SLKS_BELT
+Ka  0.005 0.005 0.005
+Kd  0.005 0.005 0.005
+Ks  0.909 0.909 0.909
+Ns  79
+illum 2
+
+newmtl Material__40_Default
+Ka  0.49 0.49 0.49
+Kd  0.49 0.49 0.49
+Ks  0.832 0.832 0.832
+Ns  50
+illum 2
+
+newmtl Material__40_BILL_SLKS_R
+Ka  0.236 0.03 0.145
+Kd  0.207 0.089 0.054
+Ks  0.221 0.098 0.054
+Ns  9
+map_Kd slack_r.tif
+#map_Kd_amt 0.5
+bump slack_rb.tif
+illum 2
+
+# Multi/Sub Material__40 done
+
+# Multi/Sub Material__41 (2) to come
+
+newmtl Material__41_BILL_SHPOL2
+Ka  0 0 0
+Kd  0 0 0
+Ns  5
+map_Kd polo_grb.tif
+#map_Kd_amt 1
+bump polo_grb.tif
+illum 1
+
+newmtl Material__41_BILL_SHPOL2_BUTN
+Ka  0.094 0 0.17
+Kd  0.045 0 0.075
+Ks  0.035 0.001 0.054
+Ns  1
+map_Kd button.tif
+#map_Kd_amt 0.6
+bump button.tif
+illum 2
+
+# Multi/Sub Material__41 done
+
+# Multi/Sub Material__42 (3) to come
+
+newmtl Material__42_BILL_WK_SHT_BDY
+Ka  0.096 0.069 0.037
+Kd  0.365 0.24 0.136
+Ks  0.374 0.253 0.148
+Ns  6
+bump pt_lg_tl.tif
+illum 2
+
+newmtl Material__42_BILL_WK_SHT_BLT
+Ka  0.019 0.004 0.002
+Kd  0.063 0.013 0.006
+Ks  0.138 0.049 0.033
+Ns  10
+illum 2
+
+newmtl Material__42_BILL_WK_SHT_BKLE
+Ka  0.36 0.127 0
+Kd  0.055 0.017 0
+Ks  1 1 1
+Ns  94
+refl house2_l.tif
+#refl_amt 0.95
+d  0.85
+illum 3
+
+# Multi/Sub Material__42 done
+
+newmtl BILL_BRIEF
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  9
+map_Kd white_64.tif
+#map_Kd_amt 1
+bump manbrief.tif
+illum 2
+
+newmtl BILL_T-SHIRT_BOD
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  9
+map_Kd white_64.tif
+#map_Kd_amt 1
+bump srt_tsrt.tif
+illum 2
+
+# Multi/Sub Material__43 (6) to come
+
+newmtl Material__43_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__43_BILL_WNGSHOE_BD2
+Ka  0.01 0.002 0
+Kd  0.048 0.006 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+illum 2
+
+newmtl Material__43_BILL_WNGSHOE_BD1
+Ka  0.01 0.002 0
+Kd  0.065 0.009 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+bump leather1.tif
+illum 2
+
+newmtl Material__43_BILL_WNGSHOE_SOL
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.035 0.035 0.035
+Ns  50
+illum 2
+
+newmtl Material__43_BILL_WNGSHOE_BD3
+Ka  0.01 0.002 0
+Kd  0.03 0.006 0.001
+Ks  0.048 0.009 0.002
+Ns  10
+illum 2
+
+newmtl Material__43_BILL_WNGSHOE_LAC
+Ka  0.003 0.001 0.001
+Kd  0.003 0.001 0.001
+Ks  0.009 0.003 0.002
+Ns  10
+illum 2
+
+# Multi/Sub Material__43 done
+
+# Multi/Sub Material__44 (6) to come
+
+newmtl Material__44_BILL_P_LEG
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  10
+map_Kd blp_leg.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__44_BILL_WNGSHOE_BD2
+Ka  0.01 0.002 0
+Kd  0.048 0.006 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+illum 2
+
+newmtl Material__44_BILL_WNGSHOE_BD1
+Ka  0.01 0.002 0
+Kd  0.065 0.009 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+bump leather1.tif
+illum 2
+
+newmtl Material__44_BILL_WNGSHOE_SOL
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.035 0.035 0.035
+Ns  50
+illum 2
+
+newmtl Material__44_BILL_WNGSHOE_BD3
+Ka  0.01 0.002 0
+Kd  0.03 0.006 0.001
+Ks  0.048 0.009 0.002
+Ns  10
+illum 2
+
+newmtl Material__44_BILL_WNGSHOE_LAC
+Ka  0.003 0.001 0.001
+Kd  0.003 0.001 0.001
+Ks  0.009 0.003 0.002
+Ns  10
+illum 2
+
+# Multi/Sub Material__44 done
+
+newmtl BILL_P_TTH_BOT
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  27
+map_Kd blp_thb.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl BILL_P_TTH_TOP
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  21
+map_Kd blp_tht.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl BONES
+Ka  0 0 0
+Kd  0 0 0
+Ns  1
+d  0
+illum 1
+
+newmtl Material__45_BIL_SLKS_BUCKLE
+Ka  0.36 0.127 0
+Kd  0.055 0.017 0
+Ks  1 1 1
+Ns  94
+refl house2_l.tif
+#refl_amt 0.95
+d  0.85
+illum 3
+
+newmtl Material__45_BIL_SLKS_L
+Ka  0.055 0.03 0.006
+Kd  0.17 0.089 0.019
+Ks  0.187 0.098 0.022
+Ns  9
+map_Kd slack_l.tif
+#map_Kd_amt 0.5
+bump slack_l.tif
+illum 2
+
+newmtl Material__45_BIL_SLKS_BELT
+Ka  0.297 0.031 0.002
+Kd  0.098 0.01 0.001
+Ks  0.933 0.912 0.905
+Ns  79
+illum 2
+
+newmtl Material__45_BIL_SLKS_R
+Ka  0.055 0.03 0.006
+Kd  0.17 0.089 0.019
+Ks  0.187 0.1 0.022
+Ns  9
+map_Kd slack_r.tif
+#map_Kd_amt 0.5
+bump slack_r.tif
+illum 2
+
+newmtl Material__45_BIL_SHPOL2
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  15
+map_Kd polo_grb.tif
+#map_Kd_amt 1
+bump polo_grb.tif
+illum 2
+
+newmtl Material__45_BIL_SHPOL2_BUTN
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  1
+map_Kd butn_b1.tif
+#map_Kd_amt 0.1
+bump butn_b1.tif
+illum 2
+
+newmtl Material__45_BIL_WNGSHOE_SOCK
+Ka  0 0 0
+Kd  0.003 0.003 0.003
+Ns  1
+bump rust002.tif
+illum 1
+
+newmtl Material__45_BIL_WNGSHOE_BD2
+Ka  0.01 0.002 0
+Kd  0.048 0.006 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+illum 2
+
+newmtl Material__45_BIL_WNGSHOE_BD1
+Ka  0.01 0.002 0
+Kd  0.065 0.009 0.001
+Ks  0.444 0.145 0.071
+Ns  50
+bump leather1.tif
+illum 2
+
+newmtl Material__45_BIL_WNGSHOE_SOLE
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.035 0.035 0.035
+Ns  50
+illum 2
+
+newmtl Material__45_BIL_WNGSHOE_BD3
+Ka  0.01 0.002 0
+Kd  0.03 0.006 0.001
+Ks  0.048 0.009 0.002
+Ns  10
+illum 2
+
+newmtl Material__45_BIL_WNGSHOE_LACE
+Ka  0.003 0.001 0.001
+Kd  0.003 0.001 0.001
+Ks  0.009 0.003 0.002
+Ns  10
+illum 2
+
+newmtl Material__45_BILL_P_ARM
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.001 0.001 0.001
+Ns  18
+map_Kd bil_p_ar.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__45_BILL_P_NAIL
+Ka  0.394 0.207 0.207
+Kd  0.609 0.46 0.46
+Ks  0.409 0.377 0.377
+Ns  48
+map_Kd bil_p_ar.tif
+#map_Kd_amt 0.8
+illum 2
+
+newmtl Material__45_BILL_P_BODY
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.002 0.002 0.002
+Ns  18
+map_Kd blp_bod.tif
+#map_Kd_amt 1
+illum 2
+
+newmtl Material__45_BILL_P_MTH_IN2
+Ka  0.013 0.003 0.003
+Kd  0.075 0.016 0.021
+Ks  0.179 0.044 0.055
+Ns  40
+illum 2
+
+newmtl Material__45_BILL_P_MTH_LIPS
+Ka  0.013 0.003 0.003
+Kd  0.346 0.033 0.033
+Ks  0.377 0.059 0.066
+Ns  40
+illum 2
+
+newmtl Material__45_BILL_P_MTH_IN1
+Ka  0.013 0.003 0.003
+Kd  0.075 0.016 0.021
+Ks  0.179 0.044 0.055
+Ns  40
+illum 2
+
+# Multi/Sub Material__45 done
+
+# EOF
+

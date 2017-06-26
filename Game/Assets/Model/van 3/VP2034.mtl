@@ -1,0 +1,77 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-05 23:44:33Z
+
+newmtl black
+Ka 0 0 0
+Kd 0.002 0.002 0.002
+Ks 0.1265 0.1265 0.1265
+illum 2
+Ns 157.36
+
+newmtl brzskin
+Ka 0.4408 0.2694 0.1592
+Kd 0.3796 0.2898 0.2122
+Ks 0.5265 0.4275 0.3568
+illum 2
+Ns 25
+
+newmtl bone
+Ka 0.3061 0.1654 0.065
+Kd 0.9 0.7626 0.4261
+Ks 0.8939 0.7609 0.5509
+illum 2
+Ns 200
+
+newmtl silver
+Ka 0.9551 0.9551 0.9551
+Kd 0.6163 0.6163 0.6163
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl rubber
+Ka 0 0 0
+Kd 0.01 0.01 0.01
+illum 1
+Ns 5.81
+
+newmtl glasstransparent
+Ka 0.2163 0.2163 0.2163
+Kd 0.4694 0.4694 0.4694
+Ks 0.6082 0.6082 0.6082
+illum 4
+d 0.25
+Ns 200
+sharpness 60
+
+newmtl dkblue
+Ka 0 0.0029 0.0408
+Kd 0 0.0041 0.0571
+Ks 0 0.0164 0.2
+illum 2
+Ns 60
+
+newmtl flblack
+Ka 0 0 0
+Kd 0.0041 0.0041 0.0041
+illum 1
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl flred
+Ka 0.3469 0 0
+Kd 1 0 0
+illum 1
+
+newmtl amber
+Ka 0.2163 0.1007 0
+Kd 0.5755 0.2678 0
+Ks 0.7714 0.359 0
+illum 2
+Ns 60
+

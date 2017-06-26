@@ -1,0 +1,53 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-06 21:03:07Z
+
+newmtl FedResrv_02
+Kd 0.498597 0.514851 0.392724
+Ks 0.498597 0.514851 0.392724
+illum 2
+
+newmtl FedResrv_01
+Kd 0.600409 0.600409 0.600409
+Ks 0.600409 0.600409 0.600409
+illum 2
+
+newmtl FedResrv_glass
+Kd 0 0.211274 0.211274
+Ks 0 0.211274 0.211274
+illum 2
+
+newmtl FedResrv_wndwframes
+Kd 0.188451 0 0
+Ks 0.188451 0 0
+illum 2
+
+newmtl FedResrv_Ironblk
+Kd 0.0292147 0.0292147 0.0292147
+Ks 0.0292147 0.0292147 0.0292147
+illum 2
+
+newmtl FedResrv_doorframes
+Kd 0.12085 0.12085 0.12085
+Ks 0.12085 0.12085 0.12085
+illum 2
+
+newmtl FedResrv_concrete
+Kd 0.618384 0.618384 0.618384
+Ks 0.618384 0.618384 0.618384
+illum 2
+
+newmtl FedResrv_03
+Kd 0.498597 0.514851 0.392724
+Ks 0.498597 0.514851 0.392724
+illum 2
+
+newmtl FedResrv_02roof
+Kd 0.022794 0.022794 0.022794
+Ks 0.022794 0.022794 0.022794
+illum 2
+
+newmtl FedResrv_hvac
+Kd 0.296406 0.296406 0.296406
+Ks 0.296406 0.296406 0.296406
+illum 2
+

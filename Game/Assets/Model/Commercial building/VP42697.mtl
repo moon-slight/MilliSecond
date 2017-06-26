@@ -1,0 +1,51 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-06 10:16:15Z
+
+newmtl dkbrown
+Ka 0.0041 0.0024 0.0017
+Kd 0.0122 0.0053 0.0022
+Ks 0.237 0.2147 0.1821
+illum 3
+Ns 60
+sharpness 60
+
+newmtl ltbrown
+Ka 0.1306 0.0538 0.025
+Kd 0.2776 0.1143 0.0531
+Ks 0.3 0.1235 0.0574
+illum 2
+Ns 60
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl brown
+Ka 0.049 0.0084 0
+Kd 0.1224 0.021 0
+Ks 0.2122 0.0312 0
+illum 2
+Ns 65.89
+
+newmtl glass
+Ka 1 1 1
+Kd 0.4873 0.4919 0.5306
+Ks 0.6406 0.6939 0.902
+illum 3
+Ns 200
+
+newmtl dkgrey
+Ka 0.049 0.049 0.049
+Kd 0.049 0.049 0.049
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl bone2
+Ka 0.6408 0.5388 0.3348
+Kd 0.9837 0.862 0.6504
+illum 1
+

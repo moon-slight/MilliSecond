@@ -1,0 +1,49 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-05 23:44:58Z
+
+newmtl dkgrey
+Ka 0.049 0.049 0.049
+Kd 0.049 0.049 0.049
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl rubber
+Ka 0 0 0
+Kd 0.01 0.01 0.01
+illum 1
+Ns 5.81
+
+newmtl blutan
+Ka 0.0656 0.1592 0.1155
+Kd 0.0776 0.2571 0.1758
+Ks 0.1904 0.2898 0.2434
+illum 2
+Ns 25
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl silver
+Ka 0.9551 0.9551 0.9551
+Kd 0.6163 0.6163 0.6163
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl flred
+Ka 0.3469 0 0
+Kd 1 0 0
+illum 1
+
+newmtl amber
+Ka 0.2163 0.1007 0
+Kd 0.5755 0.2678 0
+Ks 0.7714 0.359 0
+illum 2
+Ns 60
+

@@ -1,0 +1,59 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-05 20:09:43Z
+
+newmtl florange
+Ka 0.4898 0.0816 0
+Kd 1 0.1667 0
+illum 1
+
+newmtl brzskin
+Ka 0.4408 0.2694 0.1592
+Kd 0.3796 0.2898 0.2122
+Ks 0.5265 0.4275 0.3568
+illum 2
+Ns 25
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl black
+Ka 0 0 0
+Kd 0.002 0.002 0.002
+Ks 0.1265 0.1265 0.1265
+illum 2
+Ns 157.36
+
+newmtl flred
+Ka 0.3469 0 0
+Kd 1 0 0
+illum 1
+
+newmtl flblack
+Ka 0 0 0
+Kd 0.0041 0.0041 0.0041
+illum 1
+
+newmtl dkgrey
+Ka 0.049 0.049 0.049
+Kd 0.049 0.049 0.049
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+
+newmtl rubber
+Ka 0 0 0
+Kd 0.01 0.01 0.01
+illum 1
+Ns 5.81
+
+newmtl silver
+Ka 0.9551 0.9551 0.9551
+Kd 0.6163 0.6163 0.6163
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+

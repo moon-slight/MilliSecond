@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 59076f427cfc51049b1f16b844cd8a36
+timeCreated: 1475498046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: JM_glass1
+    100002: JM_glass11
+    100004: JM_glass12
+    100006: JM_stone01
+    100008: JM_stone011
+    100010: JM_stone012
+    100012: JM_stone02
+    100014: JM_stone021
+    100016: JM_stone022
+    100018: JM_stone03
+    100020: JM_stone031
+    100022: JM_stone032
+    100024: JM_stone2
+    100026: JM_stone21
+    100028: JM_stone22
+    100030: JM_wdvdr
+    100032: JM_wdvdr1
+    100034: JM_wdvdr2
+    100036: //RootNode
+    400000: JM_glass1
+    400002: JM_glass11
+    400004: JM_glass12
+    400006: JM_stone01
+    400008: JM_stone011
+    400010: JM_stone012
+    400012: JM_stone02
+    400014: JM_stone021
+    400016: JM_stone022
+    400018: JM_stone03
+    400020: JM_stone031
+    400022: JM_stone032
+    400024: JM_stone2
+    400026: JM_stone21
+    400028: JM_stone22
+    400030: JM_wdvdr
+    400032: JM_wdvdr1
+    400034: JM_wdvdr2
+    400036: //RootNode
+    2300000: JM_glass1
+    2300002: JM_glass11
+    2300004: JM_glass12
+    2300006: JM_stone01
+    2300008: JM_stone011
+    2300010: JM_stone012
+    2300012: JM_stone02
+    2300014: JM_stone021
+    2300016: JM_stone022
+    2300018: JM_stone03
+    2300020: JM_stone031
+    2300022: JM_stone032
+    2300024: JM_stone2
+    2300026: JM_stone21
+    2300028: JM_stone22
+    2300030: JM_wdvdr
+    2300032: JM_wdvdr1
+    2300034: JM_wdvdr2
+    3300000: JM_glass1
+    3300002: JM_glass11
+    3300004: JM_glass12
+    3300006: JM_stone01
+    3300008: JM_stone011
+    3300010: JM_stone012
+    3300012: JM_stone02
+    3300014: JM_stone021
+    3300016: JM_stone022
+    3300018: JM_stone03
+    3300020: JM_stone031
+    3300022: JM_stone032
+    3300024: JM_stone2
+    3300026: JM_stone21
+    3300028: JM_stone22
+    3300030: JM_wdvdr
+    3300032: JM_wdvdr1
+    3300034: JM_wdvdr2
+    4300000: JM_glass1
+    4300002: JM_glass11
+    4300004: JM_glass12
+    4300006: JM_stone01
+    4300008: JM_stone011
+    4300010: JM_stone012
+    4300012: JM_stone02
+    4300014: JM_stone021
+    4300016: JM_stone022
+    4300018: JM_stone03
+    4300020: JM_stone031
+    4300022: JM_stone032
+    4300024: JM_stone2
+    4300026: JM_stone21
+    4300028: JM_stone22
+    4300030: JM_wdvdr
+    4300032: JM_wdvdr1
+    4300034: JM_wdvdr2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 22
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

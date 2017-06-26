@@ -1,0 +1,48 @@
+215.47  1.51  218.4
+227.93  1.51  162.63
+167.78  1.51  187.38
+192.1   1.51  178.22
+191.48  1.51  146.81
+220.87  1.51  121.77
+
+
+玩家人物位置
+
+0   93.14   0.03232598  87.5
+1   124.9   0.03232598  80.38
+2   142.81  0.03232598  75.77
+3   168.53  0.03232598  88.32
+4   190.23  0.03232598  88.84
+原  219.95  0.03232598  81.68
+6   254.85  0.03232598  65.49
+7   294.23  0.03232598  80.3
+8   324.21  0.03232598  75.28
+9   354.29  0.03232598  92.53
+10  382.47  0.03232598  93.05
+
+
+樹的位置
+
+
+Initial_position[0]  = new Vector3 ( 173.24f , 0.12f , 128.56f);
+Initial_position[1]  = new Vector3 ( 201.81f , 0.12f , 132.4f);
+Initial_position[2]  = new Vector3 ( 221.95f , 0.12f , 131.34f);
+Initial_position[3]  = new Vector3 ( 254.38f , 0.12f , 127.99f);
+Initial_position[4]  = new Vector3 ( 276.89f , 0.12f , 127.39f);
+Initial_position[5]  = new Vector3 ( 313.18f , 0.12f , 130.35f);
+
+Initial_position[6]  = new Vector3 ( 184.09f , 0.12f , 148.14f);
+Initial_position[7]  = new Vector3 ( 208.49f , 0.12f , 153.85f);
+Initial_position[8] = new Vector3 ( 237.59f , 0.12f , 146.09f);
+Initial_position[9] = new Vector3 ( 259.56f , 0.12f , 156.23f);
+Initial_position[10] = new Vector3 ( 279.59f , 0.12f , 147.05f);
+Initial_position[11] = new Vector3 ( 304.39f , 0.12f , 152.59f);
+
+Initial_position[12] = new Vector3 ( 318.17f , 0.12f , 171.53f);
+Initial_position[13] = new Vector3 ( 288.87f , 0.12f , 175.07f);
+Initial_position[14] = new Vector3 ( 267.26f , 0.12f , 174.53f);
+Initial_position[15] = new Vector3 ( 243.29f , 0.12f , 172.96f);
+Initial_position[16] = new Vector3 ( 220.07f , 0.12f , 172.38f);
+Initial_position[17] = new Vector3 ( 196.52f , 0.12f , 177.55f);
+
+

@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 9728eeb5362f14d49a51bc39bfe2bc69
+timeCreated: 1463212994
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MK98_BA1
+    100004: MK98_BA2
+    100006: MK98_BOL
+    100008: MK98_GLA
+    100010: MK98_GU1
+    100012: MK98_GU2
+    100014: MK98_LOK
+    100016: MK98_MA1
+    100018: MK98_MA2
+    100020: MK98_MA3
+    100022: MK98_MFP
+    100024: MK98_PAD
+    100026: MK98_SCO
+    100028: MK98_SIG
+    100030: MK98_ST1
+    100032: MK98_STO
+    100034: MK98_TR
+    100036: MK98_TRG
+    400000: //RootNode
+    400002: MK98_BA1
+    400004: MK98_BA2
+    400006: MK98_BOL
+    400008: MK98_GLA
+    400010: MK98_GU1
+    400012: MK98_GU2
+    400014: MK98_LOK
+    400016: MK98_MA1
+    400018: MK98_MA2
+    400020: MK98_MA3
+    400022: MK98_MFP
+    400024: MK98_PAD
+    400026: MK98_SCO
+    400028: MK98_SIG
+    400030: MK98_ST1
+    400032: MK98_STO
+    400034: MK98_TR
+    400036: MK98_TRG
+    2300000: MK98_BA1
+    2300002: MK98_BA2
+    2300004: MK98_BOL
+    2300006: MK98_GLA
+    2300008: MK98_GU1
+    2300010: MK98_GU2
+    2300012: MK98_LOK
+    2300014: MK98_MA1
+    2300016: MK98_MA2
+    2300018: MK98_MA3
+    2300020: MK98_MFP
+    2300022: MK98_PAD
+    2300024: MK98_SCO
+    2300026: MK98_SIG
+    2300028: MK98_ST1
+    2300030: MK98_STO
+    2300032: MK98_TR
+    2300034: MK98_TRG
+    3300000: MK98_BA1
+    3300002: MK98_BA2
+    3300004: MK98_BOL
+    3300006: MK98_GLA
+    3300008: MK98_GU1
+    3300010: MK98_GU2
+    3300012: MK98_LOK
+    3300014: MK98_MA1
+    3300016: MK98_MA2
+    3300018: MK98_MA3
+    3300020: MK98_MFP
+    3300022: MK98_PAD
+    3300024: MK98_SCO
+    3300026: MK98_SIG
+    3300028: MK98_ST1
+    3300030: MK98_STO
+    3300032: MK98_TR
+    3300034: MK98_TRG
+    4300000: MK98_BA1
+    4300002: MK98_BA2
+    4300004: MK98_BOL
+    4300006: MK98_GLA
+    4300008: MK98_GU1
+    4300010: MK98_GU2
+    4300012: MK98_LOK
+    4300014: MK98_MA1
+    4300016: MK98_MA2
+    4300018: MK98_MA3
+    4300020: MK98_MFP
+    4300022: MK98_PAD
+    4300024: MK98_SCO
+    4300026: MK98_SIG
+    4300028: MK98_ST1
+    4300030: MK98_STO
+    4300032: MK98_TR
+    4300034: MK98_TRG
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0004
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

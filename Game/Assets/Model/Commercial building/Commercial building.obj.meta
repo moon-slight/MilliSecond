@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: a307ca60b9a47724c80177ba65c944f0
+timeCreated: 1463216832
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fglass01
+    100002: fwalls
+    100004: midcorn
+    100006: mullions01
+    100008: parksign
+    100010: parksupp
+    100012: sign2
+    100014: sign2supp
+    100016: sin_sides01
+    100018: stcornice
+    100020: stframes01
+    100022: stfwall
+    100024: stglass01
+    100026: stglass02
+    100028: stmullion01
+    100030: stmullion02
+    100032: stswall01
+    100034: stswall02
+    100036: topcorn
+    100038: //RootNode
+    100040: winframe01
+    400000: fglass01
+    400002: fwalls
+    400004: midcorn
+    400006: mullions01
+    400008: parksign
+    400010: parksupp
+    400012: sign2
+    400014: sign2supp
+    400016: sin_sides01
+    400018: stcornice
+    400020: stframes01
+    400022: stfwall
+    400024: stglass01
+    400026: stglass02
+    400028: stmullion01
+    400030: stmullion02
+    400032: stswall01
+    400034: stswall02
+    400036: topcorn
+    400038: //RootNode
+    400040: winframe01
+    2300000: fglass01
+    2300002: fwalls
+    2300004: midcorn
+    2300006: mullions01
+    2300008: parksign
+    2300010: parksupp
+    2300012: sign2
+    2300014: sign2supp
+    2300016: sin_sides01
+    2300018: stcornice
+    2300020: stframes01
+    2300022: stfwall
+    2300024: stglass01
+    2300026: stglass02
+    2300028: stmullion01
+    2300030: stmullion02
+    2300032: stswall01
+    2300034: stswall02
+    2300036: topcorn
+    2300038: winframe01
+    3300000: fglass01
+    3300002: fwalls
+    3300004: midcorn
+    3300006: mullions01
+    3300008: parksign
+    3300010: parksupp
+    3300012: sign2
+    3300014: sign2supp
+    3300016: sin_sides01
+    3300018: stcornice
+    3300020: stframes01
+    3300022: stfwall
+    3300024: stglass01
+    3300026: stglass02
+    3300028: stmullion01
+    3300030: stmullion02
+    3300032: stswall01
+    3300034: stswall02
+    3300036: topcorn
+    3300038: winframe01
+    4300000: fglass01
+    4300002: fwalls
+    4300004: midcorn
+    4300006: mullions01
+    4300008: parksign
+    4300010: parksupp
+    4300012: sign2
+    4300014: sign2supp
+    4300016: sin_sides01
+    4300018: stcornice
+    4300020: stframes01
+    4300022: stfwall
+    4300024: stglass01
+    4300026: stglass02
+    4300028: stmullion01
+    4300030: stmullion02
+    4300032: stswall01
+    4300034: stswall02
+    4300036: topcorn
+    4300038: winframe01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.17
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

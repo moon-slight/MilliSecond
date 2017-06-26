@@ -1,0 +1,104 @@
+newmtl white
+Ka  1 1 1
+Kd  1 1 1
+Ns  50
+illum 1
+
+newmtl egr5lt_aluminum01
+Ka  0.538 0.579 0.665
+Kd  0.806 0.871 1
+Ks  1 1 1
+Ns  37
+refl r_horizon_desert01h.tif
+#refl_amt 0.25
+illum 3
+
+newmtl gr1dk_flat-black01
+Ka  0 0 0
+Kd  0 0 0
+Ks  0 0 0
+Ns  22
+illum 2
+
+newmtl gr1dk_plastic01
+Ka  0.01 0.01 0.01
+Kd  0.019 0.019 0.019
+Ks  0.047 0.047 0.047
+Ns  1
+illum 2
+
+newmtl erd2md_paint01
+Ka  0.125 0 0
+Kd  0.444 0.001 0
+Ks  0.528 0.042 0.032
+Ns  92
+refl r_horizon_desert-grayscale01h.tif
+#refl_amt 0.35
+illum 3
+
+newmtl egr5lt_headlight01
+Ka  0.111 0.111 0.111
+Kd  0.916 0.916 0.916
+Ks  0.883 0.883 0.883
+Ns  40
+refl r_horizon_lake01h.tif
+#refl_amt 1
+illum 3
+
+newmtl ebl3dk_glass01
+Ka  0 0 0
+Kd  0 0.001 0.018
+Ks  0.422 0.439 0.485
+Ns  43
+refl r_clouds_thick02.tif
+#refl_amt 0.25
+illum 3
+
+# Multi/Sub tire_bd_sportscar01 (2) to come
+
+newmtl tire_bd_sportscar01_tread_bd_sportscar01
+Ka  0.01 0.01 0.01
+Kd  0.075 0.075 0.075
+Ns  1
+map_Kd d_tread_sportscar01i.tif
+#map_Kd_amt 1
+bump b_tread_sportscar01i.tif
+illum 1
+
+newmtl tire_bd_sportscar01_tire_bd_sportscar01
+Ka  0.01 0.01 0.01
+Kd  0.075 0.075 0.075
+Ns  1
+map_Kd d_tire_sportscar01h.tif
+#map_Kd_amt 1
+bump b_tire_sportscar01h.tif
+illum 1
+
+# Multi/Sub tire_bd_sportscar01 done
+
+newmtl or3lt_orheadlight01
+Ka  0.946 0.052 0
+Kd  0.953 0.111 0.019
+Ks  0.909 0.253 0.134
+Ns  40
+illum 2
+
+newmtl egr3md_mirror01
+Ka  0.01 0.01 0.01
+Kd  0.49 0.49 0.49
+Ks  0.578 0.578 0.578
+Ns  40
+refl r_horizon_lake01h.tif
+#refl_amt 1
+illum 3
+
+newmtl egr5lt_rddheadlight01
+Ka  1 0 0
+Kd  1 0.005 0
+Ks  0.941 0.102 0.073
+Ns  40
+refl r_horizon_lake01h.tif
+#refl_amt 1
+illum 3
+
+#

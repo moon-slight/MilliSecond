@@ -1,0 +1,92 @@
+#
+# Wavefront material file
+# Converted by the DEEP Exploration  3.5.0.448
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+#
+
+newmtl WSDarkMetal01
+Ka 0.106118 0.106118 0.106118
+Kd 0.106118 0.106118 0.106118
+Ks 1 1 1
+illum 2
+Ns 41.9056
+
+newmtl WSElevCar01
+Ka 0.155961 0.155961 0.155961
+Kd 0.155961 0.155961 0.155961
+Ks 1 1 1
+illum 2
+Ns 41.9056
+
+newmtl WSLiteWht01
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 83.3332
+
+newmtl WS_Glass01
+Ka 0.00941177 0.138039 0.147451
+Kd 0.00941177 0.138039 0.147451
+Ks 1 1 1
+illum 2
+Ns 41.9056
+d 0.955
+
+newmtl WS_H01
+Ka 0.780392 0.784314 0.690196
+Kd 0.780392 0.784314 0.690196
+Ks 1 1 1
+illum 2
+Ns 9.24998
+
+newmtl WS_V01
+Ka 0.702353 0.705882 0.621176
+Kd 0.702353 0.705882 0.621176
+Ks 1 1 1
+illum 2
+Ns 9.24998
+
+newmtl WS_hvac01
+Ka 0.470588 0.470588 0.470588
+Kd 0.470588 0.470588 0.470588
+Ks 1 1 1
+illum 2
+Ns 41.9056
+
+newmtl WS_roof01
+Ka 0.0951176 0.0951176 0.0951176
+Kd 0.0951176 0.0951176 0.0951176
+Ks 1 1 1
+illum 2
+Ns 41.9056
+
+newmtl WS_tenna01
+Ka 0.419608 0.419608 0.419608
+Kd 0.419608 0.419608 0.419608
+Ks 1 1 1
+illum 2
+Ns 4.95339
+
+newmtl _doorframes01
+Ka 0.106118 0.106118 0.106118
+Kd 0.106118 0.106118 0.106118
+Ks 1 1 1
+illum 2
+Ns 41.9056
+
+newmtl _doorglass01
+Ka 0 0.110784 0.110784
+Kd 0 0.110784 0.110784
+Ks 1 1 1
+illum 2
+Ns 41.9056
+d 0.88
+
+newmtl _doormsnry01
+Ka 0.368627 0.368627 0.368627
+Kd 0.368627 0.368627 0.368627
+Ks 1 1 1
+illum 2
+Ns 9.24998

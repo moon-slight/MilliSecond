@@ -1,0 +1,65 @@
+# File created by Digimation Material Library software, (c) Digimation, Inc., 2004
+# Creation date: 2004-06-05 20:09:16Z
+
+newmtl deepgreen
+Ka 0 0.005 0
+Kd 0 0.0204 0.005
+Ks 0.047 0.1388 0.0684
+illum 2
+Ns 113.18
+
+newmtl red
+Ka 0.3878 0 0
+Kd 0.7714 0 0
+Ks 1 0 0
+illum 2
+Ns 136.43
+
+newmtl yelloworng
+Ka 0.5837 0.1715 0
+Kd 0.8857 0.249 0
+Ks 1 0.5143 0
+illum 2
+Ns 60
+
+newmtl flblack
+Ka 0 0 0
+Kd 0.0041 0.0041 0.0041
+illum 1
+
+newmtl rubber
+Ka 0 0 0
+Kd 0.01 0.01 0.01
+illum 1
+Ns 5.81
+
+newmtl smoked_glass
+Ka 0 0 0
+Kd 0.0041 0.0041 0.0041
+Ks 0.1878 0.1878 0.1878
+illum 3
+Ns 150.47
+sharpness 150
+
+newmtl chrome
+Ka 0.5143 0.5143 0.5143
+Kd 0.75 0.75 0.75
+Ks 0.9 0.9 0.9
+illum 3
+Ns 200
+sharpness 200
+
+newmtl white
+Ka 0.4 0.4 0.4
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 60
+
+newmtl silver
+Ka 0.9551 0.9551 0.9551
+Kd 0.6163 0.6163 0.6163
+Ks 0.3 0.3 0.3
+illum 2
+Ns 60
+

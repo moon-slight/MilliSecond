@@ -1,0 +1,495 @@
+newmtl Chapa_rojo
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl Black_Goma
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.101 0.101 0.101
+Ns  21
+illum 2
+
+# Multi/Sub Chapa (2) to come
+
+newmtl Chapa_CHROME_VIC2
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+illum 2
+
+newmtl Chapa_Black_Goma
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.101 0.101 0.101
+Ns  21
+illum 2
+
+# Multi/Sub Chapa done
+
+newmtl CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+# Multi/Sub Paragolpes_Delanter (2) to come
+
+newmtl Paragolpes_Delanter_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Paragolpes_Delanter_Paragolpes_Delanter
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+bump diamond1.tif
+refl house.tif
+#refl_amt 1
+illum 3
+
+# Multi/Sub Paragolpes_Delanter done
+
+# Multi/Sub Volante (2) to come
+
+newmtl Volante_Metal-Black
+Ka  0 0 0
+Kd  0.025 0.025 0.025
+Ks  0.509 0.509 0.509
+Ns  80
+illum 2
+
+newmtl Volante_CHROME_VIC_black
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+# Multi/Sub Volante done
+
+# Multi/Sub Chapa_Front (2) to come
+
+newmtl Chapa_Front_Chapa_rojo
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl Chapa_Front_black
+Ka  0 0 0
+Kd  0.034 0.034 0.034
+Ks  0.048 0.048 0.048
+Ns  25
+illum 2
+
+# Multi/Sub Chapa_Front done
+
+# Multi/Sub Gancho_Capot (2) to come
+
+newmtl Gancho_Capot_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Gancho_Capot_CHROME_VIC2_2D_s
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+# Multi/Sub Gancho_Capot done
+
+newmtl Plastic_Black
+Ka  0 0 0
+Kd  0.025 0.025 0.025
+Ks  0.509 0.509 0.509
+Ns  80
+illum 2
+
+newmtl Glass-Ventanas
+Ka  0 0 0
+Kd  0 0 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl sky.tif
+#refl_amt 0.15
+illum 6
+
+# Multi/Sub puertas (6) to come
+
+newmtl puertas_Chapa_rojo
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl puertas_Plastic-Black
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.904 0.904 0.904
+Ns  80
+illum 2
+
+newmtl puertas_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl puertas_Glass-Ventanas
+Ka  0 0 0
+Kd  0 0 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl house.tif
+#refl_amt 0.25
+illum 6
+
+newmtl Material__72_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Material__72_Plastic-Black
+Ka  0 0 0
+Kd  0 0 0
+Ks  0.904 0.904 0.904
+Ns  80
+illum 2
+
+newmtl Jeep_Body_Chapa_rojo
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl Jeep_Body_Chapa_rojo_2D
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  0.964 0.625 0.625
+Ns  25
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+# Multi/Sub Jeep_Body done
+
+newmtl Goma
+Ka  0.01 0.01 0.01
+Kd  0.256 0.256 0.256
+Ks  0.276 0.276 0.276
+Ns  25
+illum 2
+
+# Multi/Sub Espejos_Retrovisore (2) to come
+
+newmtl Espejos_Retrovisore_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Espejos_Retrovisore_Flat_Mirror
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+illum 3
+
+# Multi/Sub Espejos_Retrovisore done
+
+# Multi/Sub pakete_elastico (2) to come
+
+newmtl pakete_elastico_Fierros_negros
+Ka  0.01 0.01 0.01
+Kd  0.101 0.101 0.101
+Ks  0.758 0.758 0.758
+Ns  80
+illum 2
+
+newmtl pakete_elastico_CHROME_VIC2
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+illum 2
+
+# Multi/Sub pakete_elastico done
+
+# Multi/Sub BackLight (4) to come
+
+newmtl BackLight_Glass-RED
+Ka  0 0 0
+Kd  0.908 0.002 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl sky.tif
+#refl_amt 0.3
+illum 6
+
+newmtl BackLight_RED_Plastic
+Ka  0 0 0
+Kd  0.908 0.002 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl sky.tif
+#refl_amt 0.2
+illum 6
+
+newmtl BackLight_Plastic-Black
+Ka  0 0 0
+Kd  0.08 0.08 0.08
+Ks  0.709 0.709 0.709
+Ns  50
+illum 2
+
+newmtl BackLight_Glass-white
+Ka  0 0 0
+Kd  1 0.977 0.977
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl sky.tif
+#refl_amt 0.2
+illum 6
+
+# Multi/Sub BackLight done
+
+newmtl BFGoodrich
+Ka  0.032 0.004 0.004
+Kd  0.992 0.984 0.984
+Ks  0.983 0.975 0.975
+Ns  25
+illum 2
+
+# Multi/Sub Ruedas (4) to come
+
+newmtl Ruedas_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Ruedas_Goma
+Ka  0.01 0.01 0.01
+Kd  0.109 0.109 0.109
+Ks  0.128 0.128 0.128
+Ns  25
+illum 2
+
+newmtl Ruedas_black
+Ka  0 0 0
+Kd  0.034 0.034 0.034
+Ks  0.048 0.048 0.048
+Ns  25
+illum 2
+
+newmtl Ruedas_Letras2
+Ka  0.01 0.01 0.01
+Kd  0.471 0.476 0.482
+Ns  1
+illum 1
+
+# Multi/Sub Ruedas done
+
+# Multi/Sub Luces_delanteras (2) to come
+
+newmtl Luces_delanteras_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl Luces_delanteras_Glass-Focos
+Ka  0 0 0
+Kd  0 0 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl sky.tif
+#refl_amt 0.2
+illum 6
+
+# Multi/Sub Luces_delanteras done
+
+# Multi/Sub Material__25 (2) to come
+
+newmtl Material__25_Chapa_rojo
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl Material__25_Material__3
+Ka  0.008 0.004 0.033
+Kd  0.047 0.482 0.037
+Ks  0.062 0.496 0.052
+Ns  25
+illum 2
+
+# Multi/Sub Material__25 done
+
+newmtl Chapa_rojo_2D
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  0.964 0.625 0.625
+Ns  25
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+# Multi/Sub Guardabarros (1) to come
+
+newmtl Guardabarros_Fierros_Negros_2D
+Ka  0.01 0.01 0.01
+Kd  0.101 0.101 0.101
+Ks  0.758 0.758 0.758
+Ns  80
+illum 2
+
+# Multi/Sub Guardabarros done
+
+# Multi/Sub guardabarrosplus (2) to come
+
+newmtl guardabarrosplus_Chapa_rojo_2D
+Ka  0.908 0.002 0
+Kd  0.828 0 0
+Ks  1 0.977 0.977
+Ns  100
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl guardabarrosplus_Fierros_Negros_2D
+Ka  0.01 0.01 0.01
+Kd  0.101 0.101 0.101
+Ks  0.758 0.758 0.758
+Ns  80
+illum 2
+
+# Multi/Sub guardabarrosplus done
+
+newmtl Chapa_Negro
+Ka  0 0 0
+Kd  0.004 0.002 0.001
+Ks  0.662 0.639 0.634
+Ns  25
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+# Multi/Sub Ventanas (2) to come
+
+newmtl Ventanas_Chapa_Negro
+Ka  0 0 0
+Kd  0.004 0.002 0.001
+Ks  0.662 0.639 0.634
+Ns  25
+refl house.tif
+#refl_amt 0.35
+illum 3
+
+newmtl Ventanas_Glass-Ventanas
+Ka  0 0 0
+Kd  0 0 0
+Ks  1 1 1
+Ns  70
+d -halo  0.8
+Ni  1.5
+refl house.tif
+#refl_amt 0.25
+illum 6
+
+# Multi/Sub Ventanas done
+
+newmtl Color
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+illum 2
+
+# Multi/Sub EspejosRetrovisores (2) to come
+
+newmtl EspejosRetrovisores_CHROME_VIC2
+Ka  0.069 0.069 0.069
+Kd  0.059 0.059 0.059
+Ks  0.453 0.453 0.453
+Ns  25
+refl house.tif
+#refl_amt 1
+illum 3
+
+newmtl EspejosRetrovisores_Flatmirror
+Ka  0.01 0.01 0.01
+Kd  0.25 0.25 0.25
+Ks  0.27 0.27 0.27
+Ns  25
+illum 3
+
+# Multi/Sub EspejosRetrovisores done
+
+# EOF
+
