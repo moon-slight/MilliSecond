@@ -16,3 +16,10 @@ Game Mode
 Result
 
 ![Result](https://c1.staticflickr.com/5/4290/35421231231_bfbaf23bb1_c.jpg)
+
+## Feature
+
+#### Slow Motion
+>When bullet near your head, system will automatically turn on slow motion, let player can dodge the bullet
+
+![SlowMotion](https://c1.staticflickr.com/5/4241/35183939610_fe7e309408_z.jpg)
